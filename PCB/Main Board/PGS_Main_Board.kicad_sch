@@ -6204,18 +6204,6 @@
 		(uuid "7315dab3-512b-467f-b53e-d07a76c60c3c")
 	)
 	(junction
-		(at 39.37 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "76086aad-82b7-4f2d-ba98-6a9105b56de1")
-	)
-	(junction
-		(at 52.07 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7762dc81-5044-4bca-a1f1-3ec6052183b5")
-	)
-	(junction
 		(at 64.77 -63.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6899,16 +6887,6 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 67.31) (xy 52.07 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "14edd27b-59bb-4522-b79b-927901c3aa48")
-	)
-	(wire
-		(pts
 			(xy 312.42 26.67) (xy 311.15 26.67)
 		)
 		(stroke
@@ -7049,6 +7027,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 63.5) (xy 363.22 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c4dc238-bbdd-4465-9a6a-830b2a6cb928")
+	)
+	(wire
+		(pts
 			(xy 201.93 -55.88) (xy 200.66 -55.88)
 		)
 		(stroke
@@ -7066,6 +7054,16 @@
 			(type default)
 		)
 		(uuid "1ebf2d88-f650-4620-a661-d1323aba3b98")
+	)
+	(wire
+		(pts
+			(xy 364.49 93.98) (xy 363.22 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ed6ca4d-9ea4-47a9-90a8-1a34546ea540")
 	)
 	(wire
 		(pts
@@ -8289,16 +8287,6 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 63.5) (xy 363.22 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54f43f8f-5275-49ce-b5ef-eb2c8f35931a")
-	)
-	(wire
-		(pts
 			(xy 86.36 134.62) (xy 87.63 134.62)
 		)
 		(stroke
@@ -8496,16 +8484,6 @@
 			(type default)
 		)
 		(uuid "5cefcf3d-7e11-4fb1-8453-361aba9a87c4")
-	)
-	(wire
-		(pts
-			(xy 46.99 67.31) (xy 52.07 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5d265b79-8d2f-44f5-948b-1ea09ee4d070")
 	)
 	(wire
 		(pts
@@ -10099,16 +10077,6 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 54.61) (xy 363.22 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa2f61e6-79c2-4cba-b74c-dff47ec09740")
-	)
-	(wire
-		(pts
 			(xy 96.52 72.39) (xy 96.52 81.28)
 		)
 		(stroke
@@ -10306,16 +10274,6 @@
 			(type default)
 		)
 		(uuid "b4b7833b-bf02-4dc1-9c35-cdceb2cf7b32")
-	)
-	(wire
-		(pts
-			(xy 39.37 67.31) (xy 39.37 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b5efc2e7-dca3-4fa0-a366-b50d06269062")
 	)
 	(wire
 		(pts
@@ -11059,16 +11017,6 @@
 	)
 	(wire
 		(pts
-			(xy 364.49 93.98) (xy 363.22 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd40d043-1060-415d-bc64-b89a9b41719f")
-	)
-	(wire
-		(pts
 			(xy 71.12 63.5) (xy 71.12 64.77)
 		)
 		(stroke
@@ -11086,16 +11034,6 @@
 			(type default)
 		)
 		(uuid "ddbdadf5-53ee-41a3-b9c8-b8e62b70f141")
-	)
-	(wire
-		(pts
-			(xy 364.49 85.09) (xy 363.22 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ddf88733-30df-42c8-bd2c-fd279b79bd20")
 	)
 	(wire
 		(pts
@@ -11259,6 +11197,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 85.09) (xy 363.22 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e69679af-2605-48e7-bbb0-adb19757360d")
+	)
+	(wire
+		(pts
 			(xy 180.34 -17.78) (xy 181.61 -17.78)
 		)
 		(stroke
@@ -11386,6 +11334,16 @@
 			(type default)
 		)
 		(uuid "ef646308-6a35-44b2-af6d-317bf2d4c92d")
+	)
+	(wire
+		(pts
+			(xy 364.49 54.61) (xy 363.22 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efb7b70a-9454-466f-8450-b9afe8ba0b57")
 	)
 	(wire
 		(pts
@@ -12573,6 +12531,28 @@
 			)
 		)
 	)
+	(global_label "D"
+		(shape input)
+		(at 364.49 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "15e8bfc8-450c-4f30-b35a-12b52a0fe43f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 368.7452 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "B"
 		(shape input)
 		(at 118.11 132.08 0)
@@ -12960,28 +12940,6 @@
 		(uuid "2c868b62-134d-48bc-bfa8-89b28fdb88f0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 103.2547 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "B"
-		(shape input)
-		(at 364.49 85.09 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "2d46befa-bac1-4b93-a898-31aeff08ec17")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 368.7452 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13400,28 +13358,6 @@
 		(uuid "455e443b-362a-48bd-9058-d6dc83475969")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 154.2589 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "E"
-		(shape input)
-		(at 364.49 93.98 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4659aa80-7b37-4f3c-9b56-478dd0ccbfef")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 368.6242 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14839,9 +14775,9 @@
 			)
 		)
 	)
-	(global_label "D"
+	(global_label "E"
 		(shape input)
-		(at 364.49 63.5 0)
+		(at 364.49 54.61 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14849,9 +14785,9 @@
 			)
 			(justify left)
 		)
-		(uuid "a70e170f-372a-4c42-a4e5-753a5d4eae5f")
+		(uuid "a05a87ab-3d89-4b12-8f47-9cf4e94133ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 368.7452 63.5 0)
+			(at 368.6242 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14918,6 +14854,28 @@
 		(uuid "aef9c195-4901-4d5e-8191-1606a43dadd6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 430.9752 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "B"
+		(shape input)
+		(at 364.49 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "af1a3590-ae86-437c-a0e8-2776e7a4710a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 368.7452 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15226,6 +15184,28 @@
 		(uuid "d53ec144-667e-4d28-ac99-cc2730647723")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 159.4371 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "A"
+		(shape input)
+		(at 364.49 93.98 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d5fc554e-69a0-4cf2-a497-0c99c830d677")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 368.5638 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15600,28 +15580,6 @@
 		(uuid "f071ce5d-4826-42b1-afe6-0a361e6ff4f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 81.7252 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "A"
-		(shape input)
-		(at 364.49 54.61 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f0f8c7ed-a96c-400d-b9d4-a5589c953cbf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 368.5638 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26816,7 +26774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 202.8952 -38.1 0)
 			(effects
 				(font
@@ -27581,138 +27539,6 @@
 			(project "PGS_Main_Board"
 				(path "/e225eb3e-e7d7-4a30-a02a-c99a852af5d1"
 					(reference "SW5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 43.18 67.31 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "83c8779c-7313-47df-8529-2456c68c1a14")
-		(property "Reference" "C19"
-			(at 48.26 64.77 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 48.26 62.4586 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
-			(at 46.99 66.3448 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLCPN" ""
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C160831"
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CL03A104KQ3NNNC"
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.0007"
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Confirmed" "YES"
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link" "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL03A104KQ3NNNC_C160831.html"
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "0201"
-			(at 43.18 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bb911555-fdaa-48a4-b26f-66efd079e147")
-		)
-		(pin "2"
-			(uuid "4af1add0-8e49-4168-85b1-377970784a58")
-		)
-		(instances
-			(project "PGS_Main_Board"
-				(path "/e225eb3e-e7d7-4a30-a02a-c99a852af5d1"
-					(reference "C19")
 					(unit 1)
 				)
 			)
