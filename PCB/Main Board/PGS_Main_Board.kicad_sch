@@ -6589,13 +6589,23 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 101.6) (xy 130.81 101.6)
+			(xy 86.36 149.86) (xy 96.52 149.86)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "06bc198f-708a-4dd4-b2bb-0e490ebca681")
+	)
+	(wire
+		(pts
+			(xy 86.36 157.48) (xy 91.44 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "076d8f2f-d8a4-4fbd-94e4-5c0da6b89f5b")
 	)
 	(wire
 		(pts
@@ -6819,7 +6829,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 95.25) (xy 152.4 95.25)
+			(xy 104.14 160.02) (xy 118.11 160.02)
 		)
 		(stroke
 			(width 0)
@@ -7259,7 +7269,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 88.9) (xy 129.54 88.9)
+			(xy 86.36 152.4) (xy 87.63 152.4)
 		)
 		(stroke
 			(width 0)
@@ -7419,7 +7429,7 @@
 	)
 	(wire
 		(pts
-			(xy 137.16 88.9) (xy 153.67 88.9)
+			(xy 95.25 152.4) (xy 118.11 152.4)
 		)
 		(stroke
 			(width 0)
@@ -8876,6 +8886,16 @@
 			(type default)
 		)
 		(uuid "718d245d-5f24-4231-83c4-a716629280e1")
+	)
+	(wire
+		(pts
+			(xy 86.36 154.94) (xy 91.44 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7192a6a1-aaa8-4a83-9bcb-3259d863649d")
 	)
 	(wire
 		(pts
@@ -10389,7 +10409,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 95.25) (xy 140.97 95.25)
+			(xy 86.36 160.02) (xy 96.52 160.02)
 		)
 		(stroke
 			(width 0)
@@ -10559,7 +10579,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 101.6) (xy 148.59 101.6)
+			(xy 104.14 149.86) (xy 118.11 149.86)
 		)
 		(stroke
 			(width 0)
@@ -11129,16 +11149,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 162.56) (xy 91.44 162.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e257779b-c621-4448-8fd2-0793f25a8f19")
-	)
-	(wire
-		(pts
 			(xy 364.49 138.43) (xy 363.22 138.43)
 		)
 		(stroke
@@ -11226,16 +11236,6 @@
 			(type default)
 		)
 		(uuid "e5d4b498-d274-40ba-9f25-75b82788eefb")
-	)
-	(wire
-		(pts
-			(xy 86.36 160.02) (xy 91.44 160.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e67c3807-326f-466f-9e6f-55fdd915956b")
 	)
 	(wire
 		(pts
@@ -12685,7 +12685,7 @@
 	)
 	(global_label "H"
 		(shape input)
-		(at 148.59 101.6 0)
+		(at 118.11 149.86 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12695,7 +12695,7 @@
 		)
 		(uuid "1b2d2ee1-88f4-401d-ac60-1d3902820f88")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.9057 101.6 0)
+			(at 122.4257 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12927,7 +12927,7 @@
 	)
 	(global_label "G"
 		(shape input)
-		(at 152.4 95.25 0)
+		(at 118.11 160.02 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12937,7 +12937,7 @@
 		)
 		(uuid "2b990479-a6c4-4921-9843-b85d69147cf2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.6552 95.25 0)
+			(at 122.3652 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13299,6 +13299,28 @@
 			)
 		)
 	)
+	(global_label "G"
+		(shape input)
+		(at 341.63 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3dbc97e4-ee84-409c-80b6-30772f9ca244")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 337.3748 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "T_ZR_OUT"
 		(shape input)
 		(at 354.33 85.09 180)
@@ -13475,6 +13497,28 @@
 			)
 		)
 	)
+	(global_label "F"
+		(shape input)
+		(at 306.07 99.06 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4a1088ef-34f6-44b6-a516-05e34bf28bab")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 301.9962 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "STICK_L_BTN_OUT"
 		(shape input)
 		(at 318.77 93.98 180)
@@ -13576,6 +13620,28 @@
 		(uuid "55abd274-8c5c-4515-bba6-638abd43d4a7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 368.7452 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LRA_L"
+		(shape input)
+		(at 91.44 154.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "588979cf-7afb-4d95-a694-b97c4dd0b5c4")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 99.8076 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13695,28 +13761,6 @@
 			)
 		)
 	)
-	(global_label "G"
-		(shape input)
-		(at 306.07 99.06 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5ffe1173-5da8-447c-9f5c-ae1f38ef0364")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 301.8148 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "ADC_ADDR_0"
 		(shape input)
 		(at 91.44 172.72 0)
@@ -13757,6 +13801,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "STICK_R_Y_OUT"
+		(shape input)
+		(at 173.99 -53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "61af23da-14eb-4e44-bdfa-9fa72bcbf6b3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.7929 -53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -14025,28 +14091,6 @@
 			)
 		)
 	)
-	(global_label "LRA_R"
-		(shape input)
-		(at 91.44 162.56 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "7152b9de-6012-43a1-9455-3e2f21297a68")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 100.0495 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "N_DATA_3.3"
 		(shape input)
 		(at 118.11 114.3 0)
@@ -14159,7 +14203,7 @@
 	)
 	(global_label "I"
 		(shape input)
-		(at 153.67 88.9 0)
+		(at 118.11 152.4 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -14169,7 +14213,7 @@
 		)
 		(uuid "7fe584b3-bd35-4fa0-a054-3b2314a234e1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 157.26 88.9 0)
+			(at 121.7 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14192,28 +14236,6 @@
 		(uuid "82bd9e7d-afe0-4857-934e-cc292e2bb99d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 161.6185 118.1894 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LRA_L"
-		(shape input)
-		(at 91.44 160.02 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "82eca42f-8ed6-4e8a-a1ef-c612f16dc8e7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.8076 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14285,6 +14307,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "STICK_R_X_OUT"
+		(shape input)
+		(at 173.99 -48.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "88edf624-4c8b-43b8-95fc-89f073fb70ba")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.672 -48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -15059,28 +15103,6 @@
 			)
 		)
 	)
-	(global_label "STICK_R_X_OUT"
-		(shape input)
-		(at 173.99 -53.34 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c9daa03d-e3b2-4d1b-bf82-e6d3bcb2021b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.672 -53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "WL_CS"
 		(shape input)
 		(at 91.44 124.46 0)
@@ -15213,28 +15235,6 @@
 			)
 		)
 	)
-	(global_label "STICK_R_Y_OUT"
-		(shape input)
-		(at 173.99 -48.26 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d951ce09-0dbf-4bf5-9845-e7855099eebd")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 156.7929 -48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BAT_LVL"
 		(shape input)
 		(at 91.44 180.34 0)
@@ -15253,28 +15253,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "F"
-		(shape input)
-		(at 341.63 99.06 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "df21d052-b3d0-4f24-aec4-edc3058ce3c2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 337.5562 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -15490,6 +15468,28 @@
 		(uuid "e5382b67-bb3f-45d9-ac70-8e5e33359ccc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 128.9681 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "LRA_R"
+		(shape input)
+		(at 91.44 157.48 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e9e8b80c-dafd-4c6e-9656-c62278eb3845")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.0495 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21970,7 +21970,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 133.35 88.9 90)
+		(at 91.44 152.4 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -21978,16 +21978,15 @@
 		(dnp no)
 		(uuid "42c9363a-01d7-42d3-80cf-4b7b04e9b2ad")
 		(property "Reference" "R15"
-			(at 137.922 87.884 90)
+			(at 96.012 151.384 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Value" "100R"
-			(at 133.35 88.9 90)
+			(at 91.44 152.4 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21995,7 +21994,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 133.35 90.678 90)
+			(at 91.44 154.178 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22004,7 +22003,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 88.9 0)
+			(at 91.44 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22013,7 +22012,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 133.35 88.9 0)
+			(at 91.44 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22022,7 +22021,7 @@
 			)
 		)
 		(property "JLCPN" ""
-			(at 133.35 88.9 0)
+			(at 91.44 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22031,7 +22030,7 @@
 			)
 		)
 		(property "LCSC" "C273268"
-			(at 133.35 88.9 0)
+			(at 91.44 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22040,7 +22039,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0727RL "
-			(at 133.35 88.9 0)
+			(at 91.44 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22049,7 +22048,7 @@
 			)
 		)
 		(property "Price" "0.0006"
-			(at 133.35 88.9 0)
+			(at 91.44 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22058,7 +22057,7 @@
 			)
 		)
 		(property "Confirmed" "YES"
-			(at 133.35 88.9 0)
+			(at 91.44 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22067,7 +22066,7 @@
 			)
 		)
 		(property "Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0201FR-0727RL_C273268.html"
-			(at 133.35 88.9 0)
+			(at 91.44 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22076,7 +22075,7 @@
 			)
 		)
 		(property "Package" "0201"
-			(at 133.35 88.9 0)
+			(at 91.44 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25141,7 +25140,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 134.62 101.6 90)
+		(at 100.33 149.86 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -25149,7 +25148,7 @@
 		(dnp no)
 		(uuid "6a326f09-a7ff-4569-a30a-1fe6665a7af6")
 		(property "Reference" "R16"
-			(at 139.192 100.584 90)
+			(at 104.902 148.844 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25157,7 +25156,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 134.62 101.6 90)
+			(at 100.33 149.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25165,7 +25164,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 134.62 103.378 90)
+			(at 100.33 151.638 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25174,7 +25173,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 134.62 101.6 0)
+			(at 100.33 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25183,7 +25182,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 134.62 101.6 0)
+			(at 100.33 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25192,7 +25191,7 @@
 			)
 		)
 		(property "JLCPN" ""
-			(at 134.62 101.6 0)
+			(at 100.33 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25201,7 +25200,7 @@
 			)
 		)
 		(property "LCSC" "C273268"
-			(at 134.62 101.6 0)
+			(at 100.33 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25210,7 +25209,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0727RL "
-			(at 134.62 101.6 0)
+			(at 100.33 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25219,7 +25218,7 @@
 			)
 		)
 		(property "Price" "0.0006"
-			(at 134.62 101.6 0)
+			(at 100.33 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25228,7 +25227,7 @@
 			)
 		)
 		(property "Confirmed" "YES"
-			(at 134.62 101.6 0)
+			(at 100.33 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25237,7 +25236,7 @@
 			)
 		)
 		(property "Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0201FR-0727RL_C273268.html"
-			(at 134.62 101.6 0)
+			(at 100.33 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25246,7 +25245,7 @@
 			)
 		)
 		(property "Package" "0201"
-			(at 134.62 101.6 0)
+			(at 100.33 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36470,7 +36469,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 144.78 95.25 90)
+		(at 100.33 160.02 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36478,7 +36477,7 @@
 		(dnp no)
 		(uuid "de787ef2-a614-48f8-adb6-19a468470145")
 		(property "Reference" "R17"
-			(at 149.352 94.234 90)
+			(at 104.902 159.004 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36486,7 +36485,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 144.78 95.25 90)
+			(at 100.33 160.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36494,7 +36493,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 144.78 97.028 90)
+			(at 100.33 161.798 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36503,7 +36502,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 144.78 95.25 0)
+			(at 100.33 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36512,7 +36511,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 144.78 95.25 0)
+			(at 100.33 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36521,7 +36520,7 @@
 			)
 		)
 		(property "JLCPN" ""
-			(at 144.78 95.25 0)
+			(at 100.33 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36530,7 +36529,7 @@
 			)
 		)
 		(property "LCSC" "C273268"
-			(at 144.78 95.25 0)
+			(at 100.33 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36539,7 +36538,7 @@
 			)
 		)
 		(property "MPN" "RC0201FR-0727RL "
-			(at 144.78 95.25 0)
+			(at 100.33 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36548,7 +36547,7 @@
 			)
 		)
 		(property "Price" "0.0006"
-			(at 144.78 95.25 0)
+			(at 100.33 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36557,7 +36556,7 @@
 			)
 		)
 		(property "Confirmed" "YES"
-			(at 144.78 95.25 0)
+			(at 100.33 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36566,7 +36565,7 @@
 			)
 		)
 		(property "Link" "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0201FR-0727RL_C273268.html"
-			(at 144.78 95.25 0)
+			(at 100.33 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36575,7 +36574,7 @@
 			)
 		)
 		(property "Package" "0201"
-			(at 144.78 95.25 0)
+			(at 100.33 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
