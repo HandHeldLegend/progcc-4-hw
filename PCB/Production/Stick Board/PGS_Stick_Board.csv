@@ -1,0 +1,6 @@
+"Reference","Qty","Value","Footprint","Manufacturer","MPN","LCSC","DNP"
+"C1,C2","2","47nF","Capacitor_SMD:C_0603_1608Metric","YAGEO","CC0603JRX7R9BB473","C519554",""
+"J1","1","Molex 505110-0892","hhl:5051100892","MOLEX","505110-0892","C5902847",""
+"R1,R2","2","1k","Resistor_SMD:R_0201_0603Metric","YAGEO","RC0201FR-071KL","C138165",""
+"RGB1,RGB2,RGB3,RGB4","4","SK6805-EC-10","hhl:SK6805-EC-10","OPSCO Optoelectronics","SK6805-EC-10","C22394946",""
+"SW1","1","GL1807SYAE-002","hhl:GL1807SYAE","Gulikit","GL1807SYAE-002","~",""

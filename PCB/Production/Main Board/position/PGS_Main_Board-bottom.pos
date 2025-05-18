@@ -1,0 +1,60 @@
+### Footprint positions - created on 2025-05-18T15:38:35-0700 ###
+### Printed by KiCad version 8.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                    Package                                   PosX       PosY       Rot  Side
+C1        15pF                   C_0402_1005Metric                      66.8750   -23.4000  -135.0000  bottom
+C2        15pF                   C_0402_1005Metric                      67.8309   -19.5773  -45.0000  bottom
+C3        1uF                    C_0201_0603Metric                      75.5943   -31.7501  135.0000  bottom
+C4        100nF                  C_0201_0603Metric                      68.8329   -32.6253  -135.0000  bottom
+C5        100nF                  C_0201_0603Metric                      65.2890   -30.8500  -135.0000  bottom
+C6        1uF                    C_0201_0603Metric                      76.1300   -31.2100  -45.0000  bottom
+C7        100nF                  C_0201_0603Metric                      77.8500   -26.6500  180.0000  bottom
+C8        100nF                  C_0201_0603Metric                      77.8500   -27.4250  180.0000  bottom
+C18       100nF                  C_0201_0603Metric                      76.0450   -28.8628  180.0000  bottom
+C20       100nF                  C_0201_0603Metric                      68.9329   -20.8407  -45.0000  bottom
+C21       100nF                  C_0201_0603Metric                      72.8832   -21.2171  -45.0000  bottom
+C22       100nF                  C_0201_0603Metric                      77.8500   -28.2000  180.0000  bottom
+C23       100nF                  C_0201_0603Metric                      72.6940   -34.4309  135.0000  bottom
+C24       100nF                  C_0201_0603Metric                      57.0000   -14.9250  180.0000  bottom
+C25       100nF                  C_0201_0603Metric                      82.6500   -14.9000  180.0000  bottom
+C26       100nF                  C_0201_0603Metric                      58.4750   -14.9250    0.0000  bottom
+C27       100nF                  C_0201_0603Metric                      84.1250   -14.9000    0.0000  bottom
+C28       100nF                  C_0201_0603Metric                      77.8750   -25.4500    0.0000  bottom
+J1        SM02B-SURS-TF_LF__SN_  JST_SM02B-SURS-TF_LF__SN_             110.7900   -66.3650  180.0000  bottom
+J2        SM02B-SURS-TF_LF__SN_  JST_SM02B-SURS-TF_LF__SN_              30.7900   -66.3750  180.0000  bottom
+J3        Molex_505110-0892      5051100892                            104.8600   -40.9080  -90.0000  bottom
+J5        Molex_505110-0892      5051100892                             47.1650   -49.9000  180.0000  bottom
+J6        Molex_505110-0492      5051100492                             57.8868   -24.1323    0.0000  bottom
+J7        Molex_505110-0492      5051100492                             83.7099   -24.1323    0.0000  bottom
+J8        Conn_01x04_Pin         PinHeader_1x04_P2.00mm_Vertical        73.8800   -14.7500   90.0000  bottom
+J9        Molex_505110-1792      5051101792                             67.0590   -51.5500    0.0000  bottom
+R1        1k                     R_0201_0603Metric                      68.0500   -22.1500   45.0000  bottom
+R2        10k                    R_0201_0603Metric                      69.4681   -20.3054  135.0000  bottom
+R3        27R                    R_0201_0603Metric                      76.7598   -30.7589  135.0000  bottom
+R4        27R                    R_0201_0603Metric                      77.2001   -30.1324  135.0000  bottom
+R11       100R                   R_0201_0603Metric                      63.6950   -28.2500  180.0000  bottom
+R12       100R                   R_0201_0603Metric                      66.0844   -42.6013  -90.0000  bottom
+R13       100R                   R_0201_0603Metric                      65.2556   -42.6056  -90.0000  bottom
+R14       100R                   R_0201_0603Metric                      64.4250   -42.6062  -90.0000  bottom
+R15       100R                   R_0201_0603Metric                      72.1750   -19.6750   45.0000  bottom
+R16       100R                   R_0201_0603Metric                      71.6185   -19.1385   45.0000  bottom
+R17       100R                   R_0201_0603Metric                      73.6241   -22.5234   90.0000  bottom
+R18       100R                   R_0201_0603Metric                      63.6750   -23.3000  180.0000  bottom
+R19       100R                   R_0201_0603Metric                      63.7000   -24.0500  180.0000  bottom
+R20       100R                   R_0201_0603Metric                      63.7000   -24.8000  180.0000  bottom
+R21       100R                   R_0201_0603Metric                      63.7000   -25.5500  180.0000  bottom
+R22       100R                   R_0201_0603Metric                      63.6950   -27.5000  180.0000  bottom
+R25       1k                     R_0201_0603Metric                      70.9749   -33.8500   45.0000  bottom
+R26       1k                     R_0201_0603Metric                      83.3750   -19.7250  180.0000  bottom
+R27       1k                     R_0201_0603Metric                      81.9250   -19.7250  180.0000  bottom
+R30       100R                   R_0201_0603Metric                      63.0700   -46.7900  -90.0000  bottom
+S1        TMUX1204DQAR           TMUX1204DQAR                           76.5707   -22.7493  180.0000  bottom
+SW9       EVQ-P0E07K             EVQP0                                  26.9063   -62.5291   90.0000  bottom
+SW14      EVQ-P0E07K             EVQP0                                 114.6618   -62.5291   90.0000  bottom
+U1        RP2040                 QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm    70.8250   -26.8387   45.0000  bottom
+U3        GD25Q80EEIGR           USON-8-EP(2x3)                         73.4638   -33.1394  -45.0000  bottom
+U4        ST_LSM6                LGA14                                  57.2500   -16.8250  180.0000  bottom
+U5        ST_LSM6                LGA14                                  82.9000   -16.8250  180.0000  bottom
+Y1        ABM8-272-T3            Crystal_SMD_3225-4Pin_3.2x2.5mm        65.8500   -21.3000   45.0000  bottom
+## End

@@ -1,0 +1,42 @@
+### Footprint positions - created on 2025-05-18T14:56:57-0700 ###
+### Printed by KiCad version 8.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                       PosX       PosY       Rot  Side
+C1        47uF                  CP_EIA-3216-18_Kemet-A     76.3500   -26.6000  180.0000  top
+C2        10uF                  C_0805_2012Metric          79.1750   -29.5750  -90.0000  top
+C3        100nF                 C_0201_0603Metric          82.3500   -34.7250  180.0000  top
+C4        10uF                  C_0805_2012Metric          85.2000   -29.2500   90.0000  top
+C6        100nF                 C_0201_0603Metric          70.9500   -40.7500    0.0000  top
+C7        1uF                   C_0201_0603Metric          76.0017   -28.8712   90.0000  top
+D1        CUS08F30,H3F_         D_SOD-323_HandSoldering    80.7500   -26.5000  180.0000  top
+D2        CUS08F30,H3F_         D_SOD-323_HandSoldering    73.5500   -29.3250  180.0000  top
+D3        CUS08F30,H3F_         D_SOD-323_HandSoldering    75.0250   -34.6250  -90.0000  top
+D4        CUS08F30,H3F_         D_SOD-323_HandSoldering    77.0000   -34.6250   90.0000  top
+J1        Molex_505110-1792     5051101792                 63.3500   -46.6750    0.0000  top
+J2        USB4056-03-A          USB405603A                 67.0750   -18.5211  180.0000  top
+L1        1.3A_2.2uH_±20%_80mΩ  L_1008_2520Metric          82.2000   -28.9000    0.0000  top
+L2        BLM18AG601SN1D        L_0603_1608Metric          63.3750   -37.1750  -90.0000  top
+P1        RPI-RM2               RPI_RM2                    54.5000   -33.9250    0.0000  top
+Q1        BSS138DW              SOT-363_SC-70-6            69.3250   -36.9250   90.0000  top
+Q2        BSS138DW              SOT-363_SC-70-6            72.1750   -34.9750   90.0000  top
+R1        5.1k                  R_0201_0603Metric          72.9250   -28.0000    0.0000  top
+R2        5.1k                  R_0201_0603Metric          67.9750   -28.3450   90.0000  top
+R3        1k                    R_0201_0603Metric          69.6500   -38.9500    0.0000  top
+R4        1k                    R_0201_0603Metric          68.9950   -39.7250  180.0000  top
+R5        1k                    R_0201_0603Metric          71.4500   -38.0250    0.0000  top
+R6        1k                    R_0201_0603Metric          69.6500   -34.5000    0.0000  top
+R7        1k                    R_0201_0603Metric          68.7750   -33.7250  180.0000  top
+R8        1k                    R_0201_0603Metric          73.3000   -32.9500  180.0000  top
+R9        100R                  R_0201_0603Metric          80.8750   -34.7250    0.0000  top
+R10       75k                   R_0201_0603Metric          70.9500   -41.5250  180.0000  top
+R11       75k                   R_0201_0603Metric          70.9500   -42.3000    0.0000  top
+R12       10k                   R_0201_0603Metric          51.5000   -43.5250  180.0000  top
+R13       10k                   R_0201_0603Metric          75.9851   -32.1833  180.0000  top
+R14       470R                  R_0201_0603Metric          63.6500   -40.9000  180.0000  top
+U1        USBLC6-2P6            SOT-666                    66.9250   -31.8000   90.0000  top
+U2        USBLC6-2P6            SOT-666                    69.1875   -31.8000   90.0000  top
+U3        USBLC6-2P6            SOT-666                    71.4375   -31.8000   90.0000  top
+U4        TPS63001DRCR          VREG_V62_16624-01YE        82.2000   -32.3250  -90.0000  top
+U5        BQ25180               DSBGA                      76.6250   -30.7250    0.0000  top
+## End
