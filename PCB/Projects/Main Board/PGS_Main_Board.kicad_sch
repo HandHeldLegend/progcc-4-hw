@@ -6315,6 +6315,16 @@
 		)
 		(uuid "a6633eb4-6d1d-40ec-8009-76cb956e6a5d")
 	)
+	(text "C18 1uF must be \nnear pin 45"
+		(exclude_from_sim no)
+		(at 44.45 68.072 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ab702009-67c3-446c-8890-52dd2b8cbeb3")
+	)
 	(text "B"
 		(exclude_from_sim no)
 		(at 383.286 115.824 0)
@@ -6436,6 +6446,16 @@
 			)
 		)
 		(uuid "faaae767-e0d0-440e-88f2-08fb72db5043")
+	)
+	(text "C11 1uF must be \nnear pin 44"
+		(exclude_from_sim no)
+		(at 115.062 84.582 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fb9e9c1b-ab85-4153-aa57-52f770318eef")
 	)
 	(text "DD"
 		(exclude_from_sim no)
