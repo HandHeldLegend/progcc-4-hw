@@ -6315,7 +6315,7 @@
 		)
 		(uuid "a6633eb4-6d1d-40ec-8009-76cb956e6a5d")
 	)
-	(text "C18 1uF must be \nnear pin 45"
+	(text "1uF must be \nnear pin 45"
 		(exclude_from_sim no)
 		(at 44.45 68.072 0)
 		(effects
@@ -6447,7 +6447,7 @@
 		)
 		(uuid "faaae767-e0d0-440e-88f2-08fb72db5043")
 	)
-	(text "C11 1uF must be \nnear pin 44"
+	(text "1uF must be \nnear pin 44"
 		(exclude_from_sim no)
 		(at 115.062 84.582 0)
 		(effects

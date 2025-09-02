@@ -1,5 +1,5 @@
-### Footprint positions - created on 2025-05-18T14:56:57-0700 ###
-### Printed by KiCad version 8.0.2
+### Footprint positions - created on 2025-09-02T15:34:58-0700 ###
+### Printed by KiCad version 9.0.3
 ## Unit = mm, Angle = deg.
 ## Side : top
 # Ref     Val                   Package                       PosX       PosY       Rot  Side
@@ -7,12 +7,14 @@ C1        47uF                  CP_EIA-3216-18_Kemet-A     76.3500   -26.6000  1
 C2        10uF                  C_0805_2012Metric          79.1750   -29.5750  -90.0000  top
 C3        100nF                 C_0201_0603Metric          82.3500   -34.7250  180.0000  top
 C4        10uF                  C_0805_2012Metric          85.2000   -29.2500   90.0000  top
-C6        100nF                 C_0201_0603Metric          70.9500   -40.7500    0.0000  top
 C7        1uF                   C_0201_0603Metric          76.0017   -28.8712   90.0000  top
-D1        CUS08F30,H3F_         D_SOD-323_HandSoldering    80.7500   -26.5000  180.0000  top
-D2        CUS08F30,H3F_         D_SOD-323_HandSoldering    73.5500   -29.3250  180.0000  top
-D3        CUS08F30,H3F_         D_SOD-323_HandSoldering    75.0250   -34.6250  -90.0000  top
-D4        CUS08F30,H3F_         D_SOD-323_HandSoldering    77.0000   -34.6250   90.0000  top
+C14       1uF                   C_0201_0603Metric          80.8990   -40.9448   90.0000  top
+C15       0.47uF                C_0201_0603Metric          78.3590   -39.4970  180.0000  top
+D1        CUS08F30,H3F          D_SOD-323_HandSoldering    80.7500   -26.5000  180.0000  top
+D2        CUS08F30,H3F          D_SOD-323_HandSoldering    73.5500   -29.3250  180.0000  top
+D3        CUS08F30,H3F          D_SOD-323_HandSoldering    75.0250   -34.6250  -90.0000  top
+D4        CUS08F30,H3F          D_SOD-323_HandSoldering    77.0000   -34.6250   90.0000  top
+IC1       BQ27621YZFR-G1A       BGA9C50P3X3_162X158X62     78.6718   -41.7656   90.0000  top
 J1        Molex_505110-1792     5051101792                 63.3500   -46.6750    0.0000  top
 J2        USB4056-03-A          USB405603A                 67.0750   -18.5211  180.0000  top
 L1        1.3A_2.2uH_±20%_80mΩ  L_1008_2520Metric          82.2000   -28.9000    0.0000  top
@@ -29,11 +31,12 @@ R6        1k                    R_0201_0603Metric          69.6500   -34.5000   
 R7        1k                    R_0201_0603Metric          68.7750   -33.7250  180.0000  top
 R8        1k                    R_0201_0603Metric          73.3000   -32.9500  180.0000  top
 R9        100R                  R_0201_0603Metric          80.8750   -34.7250    0.0000  top
-R10       75k                   R_0201_0603Metric          70.9500   -41.5250  180.0000  top
-R11       75k                   R_0201_0603Metric          70.9500   -42.3000    0.0000  top
+R10       0R                    R_0201_0603Metric          69.3928   -42.1640    0.0000  top
 R12       10k                   R_0201_0603Metric          51.5000   -43.5250  180.0000  top
 R13       10k                   R_0201_0603Metric          75.9851   -32.1833  180.0000  top
 R14       470R                  R_0201_0603Metric          63.6500   -40.9000  180.0000  top
+R20       10k                   R_0201_0603Metric          75.4634   -42.5602   90.0000  top
+R29       10k                   R_0201_0603Metric          78.9940   -44.0436  180.0000  top
 U1        USBLC6-2P6            SOT-666                    66.9250   -31.8000   90.0000  top
 U2        USBLC6-2P6            SOT-666                    69.1875   -31.8000   90.0000  top
 U3        USBLC6-2P6            SOT-666                    71.4375   -31.8000   90.0000  top
