@@ -1,4 +1,4 @@
-### Footprint positions - created on 2025-09-23T13:00:27-0700 ###
+### Footprint positions - created on 2025-09-23T14:51:55-0700 ###
 ### Printed by KiCad version 9.0.3
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -15,7 +15,7 @@ D3        CUS08F30,H3F          D_SOD-323_HandSoldering    75.0250   -34.6250  -
 D4        CUS08F30,H3F          D_SOD-323_HandSoldering    77.0000   -34.6250   90.0000  top
 IC1       BQ27621YZFR-G1A       BGA9C50P3X3_162X158X62     78.6718   -41.7656   90.0000  top
 J1        Molex_505110-1792     5051101792                 63.3500   -46.6750    0.0000  top
-J2        USB4056-03-A          USB405603A                 67.0750   -20.0000  180.0000  top
+J2        USB4056-03-A          USB405603A                 67.0750   -19.8000  180.0000  top
 L1        1.3A_2.2uH_±20%_80mΩ  L_1008_2520Metric          82.2000   -28.9000    0.0000  top
 L2        BLM18AG601SN1D        L_0603_1608Metric          63.3750   -37.1750  -90.0000  top
 P1        RPI-RM2               RPI_RM2                    54.5000   -33.9250    0.0000  top
