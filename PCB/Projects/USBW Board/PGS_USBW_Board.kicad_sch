@@ -5642,16 +5642,6 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 22.86) (xy 167.64 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cb5e326-a77e-4947-9057-a6cb7a27b9e0")
-	)
-	(wire
-		(pts
 			(xy 175.26 53.34) (xy 175.26 60.96)
 		)
 		(stroke
@@ -6389,16 +6379,6 @@
 			(type default)
 		)
 		(uuid "51c64d38-cc1d-4c35-883d-d77953f45658")
-	)
-	(wire
-		(pts
-			(xy 154.94 22.86) (xy 157.48 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "53473c1c-68cb-4ece-965d-2d16a516a02b")
 	)
 	(wire
 		(pts
@@ -8050,6 +8030,28 @@
 		)
 		(uuid "fcf19344-2994-400e-aac6-7120bf1fcfa2")
 	)
+	(global_label "VBUS"
+		(shape input)
+		(at 262.89 124.46 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "00ccf3ee-a27d-4a24-80e9-d44b2d147aaf")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 270.1196 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "I2C1_SCL"
 		(shape input)
 		(at 109.22 99.06 180)
@@ -8226,28 +8228,6 @@
 			)
 		)
 	)
-	(global_label "VBUS_PRE"
-		(shape input)
-		(at 154.94 22.86 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "25349e2f-8bdd-4201-be25-743e8a93148b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 143.0538 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "D-"
 		(shape bidirectional)
 		(at 171.45 109.22 180)
@@ -8261,6 +8241,28 @@
 		(uuid "25e7d821-051c-4542-b36a-bdbbb4dd54f6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 164.5111 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VBUS"
+		(shape input)
+		(at 227.33 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2bb1e720-e442-4078-b26a-581d8c1a3b81")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.1004 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8468,28 +8470,6 @@
 			)
 		)
 	)
-	(global_label "VBUS"
-		(shape input)
-		(at 167.64 22.86 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "4d6f9061-eec0-4b56-91bc-a9f65a17e350")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 174.8696 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "N_DATA"
 		(shape bidirectional)
 		(at 231.14 91.44 0)
@@ -8666,28 +8646,6 @@
 			)
 		)
 	)
-	(global_label "VBUS_PRE"
-		(shape input)
-		(at 262.89 137.16 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "61bcb320-5b69-45c4-abab-690d0a3f50cb")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 274.7762 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "N_DATA_SAFE"
 		(shape input)
 		(at 201.93 99.06 180)
@@ -8833,6 +8791,28 @@
 		(uuid "77460029-0ddc-45a2-b52e-370673d71c50")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 193.9196 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VBUS"
+		(shape input)
+		(at 265.43 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "77ce2295-100c-4701-ad7f-4ae87d1ab605")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 273.3138 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9238,6 +9218,28 @@
 			)
 		)
 	)
+	(global_label "VBUS"
+		(shape input)
+		(at 182.88 82.55 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a553b391-d420-489c-a69f-9c703bad011b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 175.6504 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "D+"
 		(shape bidirectional)
 		(at 227.33 134.62 180)
@@ -9256,28 +9258,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VBUS_PRE"
-		(shape input)
-		(at 265.43 116.84 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "ab4ff68b-ed54-453b-9a54-0def430a3432")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 277.3162 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -9326,28 +9306,6 @@
 			)
 		)
 	)
-	(global_label "VBUS_PRE"
-		(shape input)
-		(at 262.89 124.46 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b22f704d-1f1e-4a35-827d-1683f0920aa9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 274.7762 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "N_CLOCK"
 		(shape input)
 		(at 214.63 76.2 0)
@@ -9383,28 +9341,6 @@
 		(uuid "b8366d47-0d98-4f55-924e-e8fd885868bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 125.0924 170.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VBUS_PRE"
-		(shape input)
-		(at 227.33 142.24 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bc77a885-e2b9-4f70-b98b-a73234553def")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.7896 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9590,6 +9526,28 @@
 			)
 		)
 	)
+	(global_label "VBUS"
+		(shape input)
+		(at 227.33 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cf71dd21-2119-46ab-8728-f4a5fb276700")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.1004 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BATTERY_POS"
 		(shape input)
 		(at 130.81 102.87 0)
@@ -9700,6 +9658,28 @@
 			)
 		)
 	)
+	(global_label "VBUS"
+		(shape input)
+		(at 262.89 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0349072-a483-4d87-bab9-50eb3ec8d13e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 270.1196 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BATTERY_POS"
 		(shape input)
 		(at 128.27 129.54 180)
@@ -9735,28 +9715,6 @@
 		(uuid "efee835f-da02-418e-8f9d-9acb379e257d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 195.6076 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VBUS_PRE"
-		(shape input)
-		(at 182.88 82.55 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f2458f48-8c1d-41aa-af94-e2c7ffe183d5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.9938 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9911,28 +9869,6 @@
 		(uuid "fbef5406-5993-4e97-a0a3-1219105e66aa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 90.6209 175.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VBUS_PRE"
-		(shape input)
-		(at 227.33 129.54 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ff377782-19f1-4027-a38d-1824dd96eaac")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 214.7896 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10627,7 +10563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reviewed" "Yes"
+		(property "Reviewed" " "
 			(at 109.22 172.72 0)
 			(effects
 				(font
@@ -15286,6 +15222,15 @@
 				(hide yes)
 			)
 		)
+		(property "Reviewed" "Yes"
+			(at 52.07 86.36 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2de49130-68ed-4db1-a73d-51e834258389")
 		)
@@ -15443,6 +15388,15 @@
 			)
 		)
 		(property "Manufacturer" "Texas Instruments"
+			(at 45.72 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reviewed" "Yes"
 			(at 45.72 105.41 0)
 			(effects
 				(font
@@ -15893,6 +15847,15 @@
 			)
 		)
 		(property "PART_REV" ""
+			(at 39.37 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reviewed" "Yes"
 			(at 39.37 113.03 90)
 			(effects
 				(font
@@ -16441,136 +16404,6 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:CUS08F30")
-		(at 161.29 22.86 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c636f59d-8aaa-4f9e-94ed-85318c5f16b1")
-		(property "Reference" "D2"
-			(at 161.29 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "CUS08F30,H3F"
-			(at 161.29 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
-			(at 161.29 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 161.29 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "SOD-323 Schottky Diodes ROHS (TOSHIBA)"
-			(at 161.29 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CUS08F30,H3F "
-			(at 161.29 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC" "C150183"
-			(at 161.29 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Price" "0.0092"
-			(at 161.29 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link" ""
-			(at 161.29 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOD-323"
-			(at 161.29 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "TOSHIBA"
-			(at 161.29 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Reviewed" "Yes"
-			(at 161.29 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8969447f-c4ce-4383-a013-7f453b9ba979")
-		)
-		(pin "2"
-			(uuid "1b03c551-212c-4aa8-873d-ed0a1c138aab")
-		)
-		(instances
-			(project "PGS_USBW_Board"
-				(path "/6d3e1647-1cd7-4a11-bb6b-4cbc1763a1a0"
-					(reference "D2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 81.28 105.41 90)
 		(unit 1)
@@ -16706,6 +16539,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
+			(at 81.28 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reviewed" "Yes"
 			(at 81.28 105.41 90)
 			(effects
 				(font
@@ -17088,7 +16930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reviewed" "Yes"
+		(property "Reviewed" " "
 			(at 143.51 172.72 0)
 			(effects
 				(font
@@ -17774,6 +17616,15 @@
 			)
 		)
 		(property "PART_REV" ""
+			(at 43.18 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reviewed" "Yes"
 			(at 43.18 100.33 90)
 			(effects
 				(font
@@ -18920,7 +18771,7 @@
 				(hide yes)
 			)
 		)
-		(property "Reviewed" "Yes"
+		(property "Reviewed" " "
 			(at 143.51 144.78 0)
 			(effects
 				(font
@@ -19287,6 +19138,15 @@
 			)
 		)
 		(property "Manufacturer" "Murata Electronics"
+			(at 78.74 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reviewed" "Yes"
 			(at 78.74 118.11 0)
 			(effects
 				(font

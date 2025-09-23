@@ -406,7 +406,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "EVQ-P0E07K"
+	(text "CMI624301D09"
 		(exclude_from_sim no)
 		(at 73.406 32.258 0)
 		(effects
@@ -416,17 +416,7 @@
 		)
 		(uuid "101e88dd-9f19-48f7-8138-6870fb39dee2")
 	)
-	(text "EVQ-P0D07K for 130gf\nEVQ-P0E07K for 70gf"
-		(exclude_from_sim no)
-		(at 73.406 15.494 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "60e22a5e-b1b3-4949-8e7f-f76a36fc6e66")
-	)
-	(text "EVQ-P0E07K"
+	(text "CMI624301D09"
 		(exclude_from_sim no)
 		(at 73.406 27.178 0)
 		(effects
@@ -613,7 +603,7 @@
 				)
 			)
 		)
-		(property "Value" "EVQ-P0E07K"
+		(property "Value" "CMI624301D09"
 			(at 72.39 25.4 0)
 			(effects
 				(font
@@ -649,7 +639,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EVQ-P0E07K"
+		(property "MPN" "CMI624301D09"
 			(at 72.39 30.48 0)
 			(effects
 				(font
@@ -694,7 +684,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C395225"
+		(property "LCSC" ""
 			(at 72.39 30.48 0)
 			(effects
 				(font
@@ -712,7 +702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "PANASONIC"
+		(property "Manufacturer" "Kailh"
 			(at 72.39 30.48 0)
 			(effects
 				(font
@@ -753,7 +743,7 @@
 				)
 			)
 		)
-		(property "Value" "EVQ-P0E07K"
+		(property "Value" "CMI624301D09"
 			(at 72.39 20.32 0)
 			(effects
 				(font
@@ -771,7 +761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://uelectronics.com/wp-content/uploads/2024/12/Datasheet-Microinterruptor-Silencioso-para-Mouse-CMI624301D09.pdf?srsltid=AfmBOop6n-LI93civhddjTPUOZCj3iSyUFg8_0Vf9y402ymvABNEZW8f"
 			(at 72.39 20.32 0)
 			(effects
 				(font
@@ -789,7 +779,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EVQ-P0E07K"
+		(property "MPN" "CMI624301D09"
 			(at 72.39 25.4 0)
 			(effects
 				(font
@@ -834,7 +824,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C395225"
+		(property "LCSC" ""
 			(at 72.39 25.4 0)
 			(effects
 				(font
@@ -852,7 +842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "PANASONIC"
+		(property "Manufacturer" "Kailh"
 			(at 72.39 25.4 0)
 			(effects
 				(font

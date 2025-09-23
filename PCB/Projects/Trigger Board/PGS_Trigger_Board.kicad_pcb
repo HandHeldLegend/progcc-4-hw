@@ -142,7 +142,7 @@
 				)
 			)
 		)
-		(property "Value" "EVQ-P0E07K"
+		(property "Value" "CMI624301D09"
 			(at 0 1 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -154,7 +154,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -180,7 +180,7 @@
 				)
 			)
 		)
-		(property "MPN" "EVQ-P0E07K"
+		(property "MPN" "CMI624301D09"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -245,7 +245,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C395225"
+		(property "LCSC" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -271,7 +271,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "PANASONIC"
+		(property "Manufacturer" "Kailh"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -285,7 +285,7 @@
 			)
 		)
 		(path "/55493cab-8126-4450-b037-9f5890828b63")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "PGS_Trigger_Board.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -424,7 +424,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "~"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -491,7 +491,7 @@
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/78e367db-a9fa-4645-bfbf-43969e5224a8")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "PGS_Trigger_Board.kicad_sch")
 		(attr smd)
 		(fp_line
@@ -1005,7 +1005,7 @@
 				)
 			)
 		)
-		(property "Value" "EVQ-P0E07K"
+		(property "Value" "CMI624301D09"
 			(at 0 1 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1017,7 +1017,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://uelectronics.com/wp-content/uploads/2024/12/Datasheet-Microinterruptor-Silencioso-para-Mouse-CMI624301D09.pdf?srsltid=AfmBOop6n-LI93civhddjTPUOZCj3iSyUFg8_0Vf9y402ymvABNEZW8f"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1043,7 +1043,7 @@
 				)
 			)
 		)
-		(property "MPN" "EVQ-P0E07K"
+		(property "MPN" "CMI624301D09"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1108,7 +1108,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C395225"
+		(property "LCSC" ""
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1134,7 +1134,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "PANASONIC"
+		(property "Manufacturer" "Kailh"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1148,7 +1148,7 @@
 			)
 		)
 		(path "/6571dda2-b2b5-4dea-9415-cf060981190e")
-		(sheetname "Root")
+		(sheetname "/")
 		(sheetfile "PGS_Trigger_Board.kicad_sch")
 		(attr through_hole)
 		(fp_line

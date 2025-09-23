@@ -1,4 +1,4 @@
-### Footprint positions - created on 2025-07-20T15:54:08-0700 ###
+### Footprint positions - created on 2025-09-23T13:35:51-0700 ###
 ### Printed by KiCad version 9.0.3
 ## Unit = mm, Angle = deg.
 ## Side : bottom
@@ -50,8 +50,8 @@ R26       1k                     R_0201_0603Metric                      83.3750 
 R27       1k                     R_0201_0603Metric                      81.9250   -19.7250  180.0000  bottom
 R30       100R                   R_0201_0603Metric                      63.0700   -46.7900  -90.0000  bottom
 S1        TMUX1204DQAR           TMUX1204DQAR                           76.5707   -22.7493  180.0000  bottom
-SW9       EVQ-P0E07K             EVQP0                                  26.9063   -62.5291   90.0000  bottom
-SW14      EVQ-P0E07K             EVQP0                                 114.6618   -62.5291   90.0000  bottom
+SW9       CMI627301D60           EVQP0                                  26.9063   -62.5291   90.0000  bottom
+SW14      CMI627301D60           EVQP0                                 114.6618   -62.5291   90.0000  bottom
 U1        RP2040                 QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm    70.8250   -26.8387   45.0000  bottom
 U3        GD25Q80EEIGR           USON-8-EP(2x3)                         73.4638   -33.1394  -45.0000  bottom
 U4        ST_LSM6                LGA14                                  57.2500   -16.8250  180.0000  bottom

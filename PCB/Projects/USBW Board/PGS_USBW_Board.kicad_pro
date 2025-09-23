@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -63,12 +63,7 @@
           "width": 0.3425
         }
       ],
-      "drc_exclusions": [
-        [
-          "hole_clearance|64174998|24271124|240a7d90-5736-4be4-b339-b69f9b43114f|623445df-c6fc-422b-8f65-7deb0d3b03fa",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -552,7 +547,7 @@
       "plot": "../../Production/USBW Board/gerbers/",
       "pos_files": "../../Production/USBW Board/position/",
       "specctra_dsn": "",
-      "step": "../../../3D/PGS_USBW_Board.step",
+      "step": "../../../3D/PCB/PGS_USBW_Board.step",
       "svg": "",
       "vrml": ""
     },

@@ -6006,9 +6006,9 @@
 		)
 		(uuid "0e57237e-953f-429d-b8fc-779911d3c9b7")
 	)
-	(text "EVQ-P0E07K"
+	(text "CMI627301D60"
 		(exclude_from_sim no)
-		(at 353.568 112.268 0)
+		(at 344.17 107.95 0)
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -6295,9 +6295,9 @@
 		)
 		(uuid "a1be4a59-d3fe-45cb-81ab-3afec28c6287")
 	)
-	(text "EVQ-P0E07K"
+	(text "CMI627301D60"
 		(exclude_from_sim no)
-		(at 388.366 127.508 0)
+		(at 377.952 123.444 0)
 		(effects
 			(font
 				(size 0.75 0.75)
@@ -27606,7 +27606,7 @@
 				)
 			)
 		)
-		(property "Value" "EVQ-P0E07K"
+		(property "Value" "CMI627301D60"
 			(at 387.35 120.65 0)
 			(effects
 				(font
@@ -27642,7 +27642,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EVQ-P0E07K"
+		(property "MPN" "CMI627301D60"
 			(at 387.35 125.73 0)
 			(effects
 				(font
@@ -27687,7 +27687,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C395225"
+		(property "LCSC" ""
 			(at 387.35 125.73 0)
 			(effects
 				(font
@@ -27714,7 +27714,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "PANASONIC"
+		(property "Manufacturer" "Kailh"
 			(at 387.35 125.73 0)
 			(effects
 				(font
@@ -37546,7 +37546,7 @@
 				)
 			)
 		)
-		(property "Value" "EVQ-P0E07K"
+		(property "Value" "CMI627301D60"
 			(at 351.79 105.41 0)
 			(effects
 				(font
@@ -37582,7 +37582,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "EVQ-P0E07K"
+		(property "MPN" "CMI627301D60"
 			(at 351.79 110.49 0)
 			(effects
 				(font
@@ -37627,7 +37627,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C395225"
+		(property "LCSC" ""
 			(at 351.79 110.49 0)
 			(effects
 				(font
@@ -37654,7 +37654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "PANASONIC"
+		(property "Manufacturer" "Kailh"
 			(at 351.79 110.49 0)
 			(effects
 				(font
