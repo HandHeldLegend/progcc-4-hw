@@ -10,11 +10,11 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'RubberPart.step',
-/* time_stamp */ '2025-05-19T13:19:35-07:00',
+/* time_stamp */ '2025-10-15T22:37:17-07:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
-/* originating_system */ 'Autodesk Translation Framework v14.4.0.0',
+/* originating_system */ 'Autodesk Translation Framework v14.17.0.0',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
