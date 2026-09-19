@@ -78,7 +78,7 @@
         {
           "gap": 0.2,
           "via_gap": 0.35,
-          "width": 0.3425
+          "width": 0.2
         }
       ],
       "drc_exclusions": [],
@@ -856,7 +856,7 @@
         "uuid": "e225eb3e-e7d7-4a30-a02a-c99a852af5d1"
       }
     ],
-    "used_designators": "L1,#PWR8-10,#PWR25,#PWR27,#PWR31,#PWR34,#PWR36-39,#PWR74-86,#PWR92-121,C3-8,C15-27,C29-44,R2-4,R11-25,R30-34,J6-7,J10-11,SW3-11,SW15,U1-19",
+    "used_designators": "L1,#PWR4-10,#PWR25,#PWR27,#PWR31,#PWR34,#PWR36-39,#PWR72,#PWR74-89,#PWR91-121,C3-8,C15-27,C29-44,R2-4,R11-26,R30-35,J6-7,J10-11,SW3-11,SW15,U1-19",
     "variants": []
   },
   "sheets": [
