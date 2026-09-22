@@ -275,7 +275,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "2"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -589,10 +589,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../Production/Main Board/gerbers/",
+      "plot": "../../Production/Main Board/Gerber/",
       "pos_files": "../../Production/Main Board/position/",
       "specctra_dsn": "",
-      "step": "../../../3D/PGS_Main_Board.step",
+      "step": "../../../3D/PCB/PGS_Main_Board.step",
       "svg": "",
       "vrml": ""
     },
@@ -604,7 +604,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "..\\..\\Production\\Main Board\\PGS_Main_Board.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

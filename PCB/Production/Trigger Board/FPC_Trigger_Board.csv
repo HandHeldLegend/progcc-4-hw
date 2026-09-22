@@ -1,0 +1,4 @@
+"Reference","Qty","Value","Datasheet","Footprint","Manufacturer","MPN","LCSC","DNP"
+"C1,C2,C3,C4","4","100n","","Capacitor_SMD:C_0201_0603Metric","muRata","GRM033R61A104KE15D","C76934",""
+"J1,J2","2","Conn_01x05_Pin","","hhl:505110-0592 Ribbon","","","","DNP"
+"U1,U2,U3,U4","4","HAL4395","https://www.lcsc.com/datasheet/C49165022.pdf","hhl:SOT-23-5L","Hallwee","HAL4395SO5","C49165022",""

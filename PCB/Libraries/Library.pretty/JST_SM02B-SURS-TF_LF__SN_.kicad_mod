@@ -1,0 +1,592 @@
+(footprint "JST_SM02B-SURS-TF_LF__SN_"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.66 -1.4 0)
+		(layer "F.SilkS")
+		(uuid "21e70b2f-1933-4d46-9f1e-f7de7b332d66")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SM02B-SURS-TF_LF__SN_"
+		(at 0.0508 4.1656 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "835b920e-11f3-4966-9b40-ec0e1c4a760e")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63e711b1-b671-4540-959b-d3d8137b6601")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "HD Rumble Connector"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "df81726b-d7bb-49ee-bf04-9b2c6ff06a39")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "JST Sales"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8070728e-615c-4f23-919b-2807018fb327")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "1.75mm"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07fd8f0d-6104-41a7-af44-06c95f604ca8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ab80be2-3aa8-4d36-bebd-73fde68acae6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "0.1080"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "91d9c1bd-38ae-49fc-8fad-a394586cff80")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/SM02B-SURS-TF(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=eda"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "228ecb7c-ea24-477e-984b-0f6552aec38b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendation"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "80a39e87-dd61-472d-b67c-4957c105bf2e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "N/A"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8d39ea42-ebcc-4303-b754-74585e020158")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/SM02B-SURS-TF(LF)(SN)/JST+Sales+America+Inc./view-part/?ref=snap"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15a5d231-fba7-4961-b6fe-b47ab7172a91")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "SM02B-SURS-TF(LF)(SN)"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60092a3c-a696-48ec-9f63-206dd7668aa1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9449ce24-6f30-47b7-accb-613c6caf48a8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "JST Sales"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d35eadb3-9c6f-4f41-938e-478ca895a553")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "JLCPN" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3203dd9-9819-4d7b-ada1-b3b66012bb04")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C566239"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37305d56-0a85-4ffa-beed-b3c360656e97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Confirmed" "YES"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "340013ff-5d09-498b-a90d-00c498cbe083")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Link" "https://www.lcsc.com/product-detail/Wire-To-Board-Connector_JST-SM02B-SURS-TF-LF-SN_C566239.html"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1238f5a5-ed22-4860-a288-a120d9fcca73")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "JST"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "65fa7ddf-9326-47a2-91c0-8d126f93f572")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Reviewed" "Yes"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d8d4c57f-061c-4529-af67-0c31c8269d33")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "PGS_Main_Board.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 1.9 0.787)
+		(end 1.9 0.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0543a42d-e06d-4b60-86a4-2ad1055d7bfd")
+	)
+	(fp_line
+		(start 1.9 0.05)
+		(end 1.1 0.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1647c0cd-54f7-43d2-9956-e7b3501199be")
+	)
+	(fp_line
+		(start 1.1 0.05)
+		(end 1.1 -0.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9f0337e4-7e32-4e55-8d49-a770ea9d7bf6")
+	)
+	(fp_line
+		(start 0.963 -0.25)
+		(end 1.1 -0.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9bb82be9-9030-4b51-9319-bc41c798143e")
+	)
+	(fp_line
+		(start 0.786 2.45)
+		(end -0.786 2.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b802954a-09a8-4075-a336-17e7e63cd542")
+	)
+	(fp_line
+		(start -0.963 -0.25)
+		(end -1.1 -0.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "46b6d281-5061-45ad-bb57-6a433ab16e5d")
+	)
+	(fp_line
+		(start -1.1 0.05)
+		(end -1.9 0.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5b8c8313-6243-4308-b2a0-69b07552d6f5")
+	)
+	(fp_line
+		(start -1.1 -0.25)
+		(end -1.1 0.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "978291f3-8321-46d3-a1d7-e9197d9cc503")
+	)
+	(fp_line
+		(start -1.9 0.787)
+		(end -1.9 0.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "18fb3b8a-1774-477a-b4ed-68ed36afc523")
+	)
+	(fp_circle
+		(center -1.125 -0.725)
+		(end -1.025 -0.725)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7ff82ecb-addb-408c-9ec6-1845fd9a48e4")
+	)
+	(fp_line
+		(start 2.55 3.05)
+		(end -2.55 3.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d8c0dc16-2820-4e05-b41d-e9855d19f6ab")
+	)
+	(fp_line
+		(start 2.55 0.85)
+		(end 2.55 3.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dda1fd3e-1e3e-4649-aff6-5dc0c145a8e2")
+	)
+	(fp_line
+		(start 2.15 0.85)
+		(end 2.55 0.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7b0de34f-0ca7-4679-a9a2-98fe927eafae")
+	)
+	(fp_line
+		(start 2.15 -0.75)
+		(end 2.15 0.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d1af14ab-b85d-4aff-8e4c-e58823c76106")
+	)
+	(fp_line
+		(start -2.15 0.85)
+		(end -2.15 -0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9a0c9f21-40c8-4bdd-8048-f6ff50ce7126")
+	)
+	(fp_line
+		(start -2.15 -0.75)
+		(end 2.15 -0.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9a59f0f5-4b98-489b-8fc6-d36b52209612")
+	)
+	(fp_line
+		(start -2.55 3.05)
+		(end -2.55 0.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d91be697-9f3a-40bc-ac26-3ba4483a4ab7")
+	)
+	(fp_line
+		(start -2.55 0.85)
+		(end -2.15 0.85)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3ff727d2-7801-41fc-9202-d325e12b1165")
+	)
+	(fp_line
+		(start 1.9 2.45)
+		(end -1.9 2.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ebfbbf67-9714-4596-8a2c-b036127885fc")
+	)
+	(fp_line
+		(start 1.9 0.05)
+		(end 1.9 2.45)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d35caaec-9f91-48b0-9797-a969807274e9")
+	)
+	(fp_line
+		(start 1.9 0.05)
+		(end 1.1 0.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "81da27eb-b6e1-4e11-90a9-5e5b8c6acff2")
+	)
+	(fp_line
+		(start 1.1 0.05)
+		(end 1.1 -0.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "61a1581b-2c64-480e-b5dc-1885bee8005b")
+	)
+	(fp_line
+		(start 1.1 -0.25)
+		(end -1.1 -0.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9e34db50-c1ca-41bf-b7c0-da2cf54c8931")
+	)
+	(fp_line
+		(start -1.1 0.05)
+		(end -1.9 0.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "24771670-4ce4-4ede-9528-5df142f25d03")
+	)
+	(fp_line
+		(start -1.1 -0.25)
+		(end -1.1 0.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eba38d84-3357-41c2-98ae-09f1e56b283c")
+	)
+	(fp_line
+		(start -1.9 2.45)
+		(end -1.9 0.05)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a6d4ceed-5b88-4036-97cb-74c6ecb4b6b5")
+	)
+	(fp_circle
+		(center -1.125 -0.725)
+		(end -1.025 -0.725)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f741275c-952a-472d-bae9-dd54eed2eb53")
+	)
+	(pad "1" smd rect
+		(at -0.4 0 180)
+		(size 0.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "7603ea16-89be-42d5-8e0c-b11e6664b155")
+	)
+	(pad "2" smd rect
+		(at 0.4 0 180)
+		(size 0.5 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "c1b50771-f667-4f33-971e-b0840819c1f5")
+	)
+	(pad "S1" smd rect
+		(at -1.7 1.95 180)
+		(size 1.2 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "82c943f5-28e1-4757-a9b2-54daf37ce125")
+	)
+	(pad "S2" smd rect
+		(at 1.7 1.95 180)
+		(size 1.2 1.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "5b83e76c-944d-4f27-9f13-a770b0f7c26e")
+	)
+	(embedded_fonts no)
+	(model "kicad-embed://SM02B-SURS-TF-LF.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+)

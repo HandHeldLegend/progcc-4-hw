@@ -1,22 +1,18 @@
+# KiCad auto-backup folders (any board)
+*-backups/
 
-PCB/Main Board/~_autosave-PGS_Main_Board.kicad_pcb.lck
+# KiCad local caches / lock / autosave files
+fp-info-cache
+*.lck
+~*
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
 
-PCB/Main Board/fp-info-cache
+# KiCad scratch project state files (temp/unsaved projects)
+PCB/Projects/Main Board/PGS5F27.kicad_prl
+PCB/Projects/Stick Board/PGSAFB4.kicad_prl
 
-PCB/Main Board/PGS_Main_Board-backups/
-
-PCB/Stick Board/PGS_Stick_Board-backups/
-
-PCB/Trigger Board/PGS_Trigger_Board-backups/
-
-PCB/USB Board/PGS_USB_Board-backups/
-
-PCB/USBW Board/PGS_USBW_Board-backups/
-
-PCB/Projects/Main Board/PGS_Main_Board-backups/
-
-PCB/Projects/Trigger Board/PGS_Trigger_Board-backups/
-
-PCB/Projects/USBW Board/PGS_USBW_Board-backups/
-
+# CAD working files
 3D/plasticity/

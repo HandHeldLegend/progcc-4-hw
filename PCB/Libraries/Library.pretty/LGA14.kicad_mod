@@ -1,0 +1,432 @@
+(footprint "LGA14"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -2.025 2.05 0)
+		(layer "F.SilkS")
+		(uuid "9b4e6251-f979-49ee-ab36-e01732c56416")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "ST_LSM6"
+		(at 0 -4.4 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "242f97a4-b216-499b-9a08-9b92180a3b56")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2643223e-3156-42c5-81b4-550b5cb82eae")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Accelerometer gyroscope LGA-14(2.5x3) Accelerometers ROHS"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19a17a46-76f0-400c-a2c2-f1004b2fb8fd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C126672"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af3b0096-3d1e-47cc-a987-2a846ca3a8af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Group" "ARS"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "751faf2f-4daf-41d2-8bdb-eb75b12ccc0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "LSM6DSLTR"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "66a50742-14a9-4d21-b015-334eec08248c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "0.59"
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "974007ff-9a4f-486f-8afa-e94110c1bf77")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Link" ""
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ce83e78-6aad-43de-bee8-31d650a4d499")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "LGA-14(2.5x3) "
+		(at 0 0 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6a41f25a-cd9a-42b6-adc8-d8d5e5c92c65")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "STMicroelectronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "258ba87a-4129-48d7-b0d7-c2685ba16aeb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Reviewed" "Yes"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6102779-e141-446c-9b33-2cb6c1033cd7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dbdaa0d6-113f-48e6-8f48-76a1c2651607")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e02fb31-7eb9-41c5-881a-e1b7e4a3fae5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "140c3f1e-4ba9-4db5-b846-18ec06ff592c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5a96c2a-58ff-4fd9-a316-141917a70605")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "PGS_Main_Board.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 1.7 1.15)
+		(end 1.7 1.45)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e30590da-7530-4de1-9c56-7f0553ed2370")
+	)
+	(fp_line
+		(start 1.7 -1.45)
+		(end 1.7 -1.15)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cc6e0892-ff40-4986-bcc5-47a9e80c2b45")
+	)
+	(fp_line
+		(start 0.9 1.45)
+		(end 1.7 1.45)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e248e9e2-2473-4232-9b95-0ab44e6a797b")
+	)
+	(fp_line
+		(start 0.9 -1.45)
+		(end 1.7 -1.45)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0cbcd4a8-086b-4735-a004-2c502a423135")
+	)
+	(fp_line
+		(start -0.9 1.45)
+		(end -1.7 1.45)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "057b1f16-a4de-47e7-ac74-9f78e5e5c6e4")
+	)
+	(fp_line
+		(start -0.9 -1.45)
+		(end -1.7 -1.45)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1d5b5757-a691-4149-9a66-4aa405cc177e")
+	)
+	(fp_line
+		(start -1.7 1.45)
+		(end -1.7 1.15)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1f48cb55-a872-47b9-981b-f33e39e20745")
+	)
+	(fp_line
+		(start -1.7 -1.15)
+		(end -1.7 -1.45)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "45ad64fb-7689-43a8-a3c8-c5a34a6120c4")
+	)
+	(fp_circle
+		(center 2.4 0.75)
+		(end 2.6 0.75)
+		(stroke
+			(width 0.16)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "06b6974f-bd20-4b36-9f26-91d56db16dfa")
+	)
+	(pad "1" smd rect
+		(at 1.398 0.75)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "38ec14c6-9845-40aa-85d5-2122f211b34b")
+	)
+	(pad "2" smd rect
+		(at 1.398 0.25)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "08fcc583-a0ea-4315-9967-aa72503a2fd9")
+	)
+	(pad "3" smd rect
+		(at 1.398 -0.25)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3c5d09b2-1f67-452c-ac81-45eed87efb5f")
+	)
+	(pad "4" smd rect
+		(at 1.398 -0.75)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0c8fa810-6551-4420-a24d-fa1b2b7ac3ba")
+	)
+	(pad "5" smd rect
+		(at 0.5 -1.148 90)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ce72250d-82be-40ca-a472-7a21be9b65c2")
+	)
+	(pad "6" smd rect
+		(at 0 -1.148 90)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a82227fe-ef3d-4676-b28b-b41cebe93a76")
+	)
+	(pad "7" smd rect
+		(at -0.5 -1.148 90)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "09d119d3-2f21-4c94-8cd7-b963cfcc784a")
+	)
+	(pad "8" smd rect
+		(at -1.398 -0.75)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3dace5b1-0f09-49b2-a53b-5ebf0631aa73")
+	)
+	(pad "9" smd rect
+		(at -1.398 -0.25)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "898c5e01-675a-4b75-9ae2-02f7dbeddb58")
+	)
+	(pad "10" smd rect
+		(at -1.398 0.25)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9fa59663-7c7f-4904-ab0a-96973cf9a846")
+	)
+	(pad "11" smd rect
+		(at -1.398 0.75)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9f18b3d4-0ac0-403a-8970-53a4f1281f26")
+	)
+	(pad "12" smd rect
+		(at -0.5 1.148 90)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5e1808c7-b661-4e21-a92f-0b2c2fb76e73")
+	)
+	(pad "13" smd rect
+		(at 0 1.148 90)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "1c051546-c4e4-4327-8e5e-9f66881fda2d")
+	)
+	(pad "14" smd rect
+		(at 0.5 1.148 90)
+		(size 0.745 0.28)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ab491f09-099d-4b90-97df-122874c8c137")
+	)
+	(zone
+		(layer "F.Cu")
+		(uuid "efce9cac-8fd1-4d0a-9b8d-e3b78a2260e0")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(placement
+			(enabled no)
+			(sheetname "")
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+			(island_removal_mode 0)
+		)
+		(polygon
+			(pts
+				(xy 1.4 34.8) (xy -1.4 34.8) (xy -1.4 32.5) (xy 1.4 32.5)
+			)
+		)
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/symbols/step/LGA14.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
