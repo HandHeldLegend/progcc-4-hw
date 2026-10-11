@@ -1,0 +1,8 @@
+(version 1)
+
+# JST SM02B (J1/J2 haptics): pads carry a 0.102 mm solder-mask margin, wider than
+# the 0.1 mm default clearance, so the GND pour showed inside the LRA pads' mask
+# openings (solder-bridge risk). Keep pour copper 0.15 mm from these pads.
+(rule "Pour clear of JST haptics pads"
+	(constraint clearance (min 0.15mm))
+	(condition "A.Type == 'Zone' && B.memberOfFootprint('ProGCC 4 Library:JST_SM02B-SURS-TF_LF__SN_')"))
