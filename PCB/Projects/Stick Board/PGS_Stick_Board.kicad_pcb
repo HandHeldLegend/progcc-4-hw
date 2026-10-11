@@ -1256,7 +1256,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 47nF 50V X7R 0603"
+		(property "Description" "CAP CER 47nF 50V X7R ±10% 0402"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1319,7 +1319,7 @@
 				)
 			)
 		)
-		(property "Package" "0603"
+		(property "Package" "0402"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1915,7 +1915,7 @@
 				)
 			)
 		)
-		(property "Description" "50V 47nF X7R ±5% 0603"
+		(property "Description" "CAP CER 47nF 50V X7R ±10% 0402"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1978,7 +1978,7 @@
 				)
 			)
 		)
-		(property "Package" "0603"
+		(property "Package" "0402"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
