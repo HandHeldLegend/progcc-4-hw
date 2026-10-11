@@ -4328,150 +4328,6 @@
 						)
 					)
 				)
-				(pin power_in line
-					(at 15.24 -6.35 180)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "11_1"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -6.35 180)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "11_2"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -6.35 180)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "11_3"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -6.35 180)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "11_4"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -6.35 180)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "11_5"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -6.35 180)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "11_6"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -6.35 180)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "11_7"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 15.24 -6.35 180)
-					(length 5.08)
-					(name "EP"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-					(number "11_8"
-						(effects
-							(font
-								(size 1.016 1.016)
-							)
-						)
-					)
-				)
 			)
 			(embedded_fonts no)
 		)
@@ -11922,7 +11778,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "1fb2fe0f-6ac7-4613-8f96-9cc1c9c9bd11")
 		(property "Reference" "TP5"
@@ -12155,7 +12011,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "2851cc9b-db8e-47ca-b32f-3338cdd6f9bd")
 		(property "Reference" "TP2"
@@ -12620,7 +12476,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "3e059080-d5ba-4e8c-88e3-20b63e6457e1")
 		(property "Reference" "TP4"
@@ -12699,7 +12555,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "43242508-ba8a-4a6c-8c43-6db2a94b7925")
 		(property "Reference" "TP6"
@@ -13915,7 +13771,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "6c9a002f-0f07-41aa-89c6-ec26eab29570")
 		(property "Reference" "TP3"
@@ -16729,7 +16585,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "ab248c37-6a92-4f35-8a77-48127d74f575")
 		(property "Reference" "TP1"
@@ -19662,30 +19518,6 @@
 		(pin "11"
 			(uuid "8d279f65-74bf-4bab-bb4f-359a485cebc0")
 		)
-		(pin "11_1"
-			(uuid "3228e29f-cbcc-4d68-9f74-5ff890de8803")
-		)
-		(pin "11_2"
-			(uuid "3f4edd4c-c210-430b-8ba6-5abd417b4147")
-		)
-		(pin "11_3"
-			(uuid "fa926cbb-8751-4374-ba81-1d75bf1fa7b6")
-		)
-		(pin "11_4"
-			(uuid "8066ec4f-a496-430b-9fef-06aaaa54d6ba")
-		)
-		(pin "11_5"
-			(uuid "32ed9428-2c1c-49ac-b15f-64de70227215")
-		)
-		(pin "11_6"
-			(uuid "881dca55-18f3-4ab9-ad30-fd7413bcb9f1")
-		)
-		(pin "11_7"
-			(uuid "23d20f7f-9dd7-4ecd-8604-d990bc419ed6")
-		)
-		(pin "11_8"
-			(uuid "8151097d-9f93-40e8-a5a8-c4d587053ba8")
-		)
 		(pin "2"
 			(uuid "9aab5cd4-887f-4259-8991-830e01162ddf")
 		)
@@ -19962,7 +19794,7 @@
 		(exclude_from_sim no)
 		(in_bom no)
 		(on_board yes)
-		(in_pos_files yes)
+		(in_pos_files no)
 		(dnp yes)
 		(uuid "f1b01f96-e087-4dc2-aa78-cb02cae73646")
 		(property "Reference" "TP7"
