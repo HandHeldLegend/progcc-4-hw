@@ -16,3 +16,6 @@ PCB/Projects/Stick Board/PGSAFB4.kicad_prl
 
 # CAD working files
 3D/plasticity/
+
+# kicad-mcp-pro generated reports (run_erc/run_drc)
+PCB/Projects/*/output/
