@@ -2355,17 +2355,6 @@
 				)
 			)
 		)
-		(property "Link" ""
-			(at 34.29 35.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" "0603"
 			(at 34.29 35.56 0)
 			(hide yes)
@@ -2785,17 +2774,6 @@
 			)
 		)
 		(property "Price" "0.0006"
-			(at 27.94 29.21 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Link" ""
 			(at 27.94 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -3658,17 +3636,6 @@
 				)
 			)
 		)
-		(property "Link" ""
-			(at 54.61 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" "-"
 			(at 54.61 22.86 0)
 			(hide yes)
@@ -4081,17 +4048,6 @@
 				)
 			)
 		)
-		(property "Link" ""
-			(at 39.37 31.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Package" "0201"
 			(at 39.37 31.75 0)
 			(hide yes)
@@ -4396,17 +4352,6 @@
 			)
 		)
 		(property "Price" "0.0026"
-			(at 22.86 34.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Link" ""
 			(at 22.86 34.29 0)
 			(hide yes)
 			(show_name no)
