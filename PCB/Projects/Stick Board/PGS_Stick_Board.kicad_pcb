@@ -763,19 +763,6 @@
 				)
 			)
 		)
-		(property "Link" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "63a3166e-9218-45d1-ac49-a0b2bd512948")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "Package" "0201"
 			(at 0 0 0)
 			(unlocked yes)
@@ -1269,7 +1256,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 47nF 50V X7R 0603"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1280,11 +1267,77 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+		(property "LCSC" "C272875"
 			(at 0 0 0)
-			(layer "F.SilkS")
+			(unlocked yes)
+			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e4fd7db-8a33-493a-8ab8-b88bc3394bcc")
+			(uuid "97379b45-b0a8-446a-979d-a5fc1dbf7e91")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R9BB473"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "771ee783-7664-4fb1-a8df-04df62dc1d63")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7b2e5e0e-d73c-4d0b-9d3f-29ef7091802d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Price" "0.0026"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd0215cb-f5c4-4f6a-a4ac-10bb73145f26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "0603"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bba7e619-84e5-4ad8-a1f2-d6493d663edb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Reviewed" "Yes"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4ec85a21-2669-4295-a6bf-00fad43fc342")
 			(effects
 				(font
 					(size 1 1)
@@ -1862,7 +1915,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "50V 47nF X7R ±5% 0603"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -1873,11 +1926,77 @@
 				)
 			)
 		)
-		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+		(property "LCSC" "C272875"
 			(at 0 0 90)
-			(layer "F.SilkS")
+			(unlocked yes)
+			(layer "F.Fab")
 			(hide yes)
-			(uuid "6368c1c9-ea95-4a45-ab10-f74706fe146a")
+			(uuid "2c13e15b-45e0-40b4-9860-ced9cba5fd09")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "MPN" "CC0402KRX7R9BB473"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "748d0cc5-2c9b-4d4e-9fe3-13971e4f0357")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "YAGEO"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f699410-d33f-4547-8a3a-e4b05f3cf036")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Price" "0.0026"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "54e71127-1e77-4fbc-bfee-356608975c6a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Package" "0603"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d84923d-ffa3-48e2-a36a-9fa10ddcc782")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Reviewed" "Yes"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "15c2db4e-e953-41eb-ab71-0cbb0d83319e")
 			(effects
 				(font
 					(size 1 1)
@@ -2065,19 +2184,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "61b69932-5011-4e5b-b359-95e620f1328f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Link" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b50a42cc-5855-45fa-91a8-e0e3fc005abc")
 			(effects
 				(font
 					(size 1 1)
@@ -2610,19 +2716,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7264a301-7df2-44b6-a23c-31beb5743919")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Link" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "21cc4fd4-e349-42b6-8f57-13c28eca8b4a")
 			(effects
 				(font
 					(size 1 1)
