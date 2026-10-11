@@ -1,0 +1,7 @@
+(version 1)
+
+# J1 (Molex 505110-0892): unconnected solder tab MP2 sits 0.04 mm from the board
+# edge; accepted as-is (connector position is set by the stick mechanics).
+(rule "J1 MP2 tab at board edge"
+	(constraint edge_clearance (min 0mm))
+	(condition "A.memberOfFootprint('J1') && A.Pad_Number == 'MP2'"))
