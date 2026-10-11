@@ -23228,7 +23228,7 @@
 		(at 56.775 22.299999)
 		(tags "5051100592 ")
 		(property "Reference" "J11"
-			(at 3.85 4.75 180)
+			(at 1.9 3.300001 180)
 			(unlocked yes)
 			(layer "B.SilkS")
 			(uuid "5c1991cb-4ecc-401d-8af3-789ea42dbab0")
