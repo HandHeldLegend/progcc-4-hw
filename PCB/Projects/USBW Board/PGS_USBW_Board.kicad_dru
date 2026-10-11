@@ -1,0 +1,7 @@
+(version 1)
+
+# GCT USB4056-03-A (J2): the manufacturer land pattern puts pad A12 0.236 mm
+# from the NPTH alignment-peg hole, under the board-wide 0.25 mm hole clearance.
+(rule "USB-C land pattern hole clearance"
+	(constraint hole_clearance (min 0.2mm))
+	(condition "A.memberOfFootprint('ProGCC 4 Library:USB405603A') && B.memberOfFootprint('ProGCC 4 Library:USB405603A')"))
