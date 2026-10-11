@@ -533,7 +533,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "06f81b7c-520d-46b2-b335-33a01104b944")
 		(at 111.752734 30.929086)
@@ -802,7 +802,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "096f5e34-5844-4039-bcb0-c93d83ac4f62")
 		(at 72.293091 51.211695)
@@ -1071,7 +1071,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "11036e96-104d-47ef-8faf-dfdf8c62dc22")
 		(at 111.752734 51.504086)
@@ -1737,7 +1737,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "2d2d619c-309a-47c4-a1f1-22be5b61973c")
 		(at 111.752734 43.504086)
@@ -2332,7 +2332,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "32a79b2c-2327-46e0-a45e-73d64a0e2406")
 		(at 48.03883 53.884448)
@@ -2998,7 +2998,7 @@
 			)
 		)
 	)
-	(footprint "hhl:KSC-TE"
+	(footprint "ProGCC 4 Library:KSC-TE"
 		(layer "F.Cu")
 		(uuid "362a8ead-e52a-4a95-b54a-76ec86e9637a")
 		(at 70.784037 29.138316)
@@ -3219,7 +3219,7 @@
 			)
 		)
 	)
-	(footprint "hhl:KSC-TE"
+	(footprint "ProGCC 4 Library:KSC-TE"
 		(layer "F.Cu")
 		(uuid "397f33ee-bdb5-4d3e-b328-918d6609bb2d")
 		(at 56.772471 26.132897 180)
@@ -6270,7 +6270,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "4c37e1db-952e-4a12-adf0-95a97c7927fa")
 		(at 99.852734 33.216586)
@@ -6539,7 +6539,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "4eb26f07-26c4-45e9-a064-ed186c8d73a6")
 		(at 48.03883 63.284448)
@@ -7903,7 +7903,7 @@
 			)
 		)
 	)
-	(footprint "hhl:KSC-TE"
+	(footprint "ProGCC 4 Library:KSC-TE"
 		(layer "F.Cu")
 		(uuid "565e3c45-55ab-42aa-b425-36320bf327c3")
 		(at 70.784037 37.412061)
@@ -8430,7 +8430,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "5af64039-02b6-498e-9848-867fadb664fb")
 		(at 52.73883 58.584448)
@@ -9363,7 +9363,7 @@
 			)
 		)
 	)
-	(footprint "hhl:KSC-TE"
+	(footprint "ProGCC 4 Library:KSC-TE"
 		(layer "F.Cu")
 		(uuid "64eee19f-f8fe-4877-a0e8-7c69d8a1346a")
 		(at 84.795603 26.132897)
@@ -10044,7 +10044,7 @@
 			)
 		)
 	)
-	(footprint "hhl:KSC-TE"
+	(footprint "ProGCC 4 Library:KSC-TE"
 		(layer "F.Cu")
 		(uuid "80ff73b4-69f4-45b4-8575-eb68945cf70f")
 		(at 61.772471 37.632897 90)
@@ -10265,7 +10265,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "81eb0aa9-84f0-4562-bdd2-dc088366f78b")
 		(at 64.793092 51.211695)
@@ -10840,7 +10840,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "8bda78b2-6b2e-42da-9ae1-cf65c3745041")
 		(at 99.852734 41.216586)
@@ -11415,7 +11415,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "8ea21bc1-919d-4814-94cd-082860fdbe82")
 		(at 111.752734 22.929086)
@@ -12317,7 +12317,7 @@
 			)
 		)
 	)
-	(footprint "hhl:KSC-TE"
+	(footprint "ProGCC 4 Library:KSC-TE"
 		(layer "F.Cu")
 		(uuid "a4d10494-a15b-407c-903b-57135b4cdc59")
 		(at 79.795603 37.632897 -90)
@@ -12849,7 +12849,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "a758c5fa-d029-4b71-a220-1fec976431b4")
 		(at 123.652734 41.216586)
@@ -13118,7 +13118,7 @@
 			)
 		)
 	)
-	(footprint "hhl:KSC-TE"
+	(footprint "ProGCC 4 Library:KSC-TE"
 		(layer "F.Cu")
 		(uuid "a988a9f5-8597-4a0f-8a82-319af3b5fee2")
 		(at 70.772471 68.382897)
@@ -15253,7 +15253,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "bcdd20a1-5ebf-498a-a6dc-997201f10bce")
 		(at 76.043093 51.211695)
@@ -17496,7 +17496,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "ea59ea52-d795-4485-8a31-d77e88708cb8")
 		(at 123.652734 33.216586)
@@ -17765,7 +17765,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "eba7e48f-462a-4c59-bbe8-3db10c90a4c5")
 		(at 43.338832 58.584448)
@@ -18034,7 +18034,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "ef317648-407e-4841-8f40-1e0d489488aa")
 		(at 68.543091 51.211695)
@@ -18669,7 +18669,7 @@
 			)
 		)
 	)
-	(footprint "hhl:5051100892"
+	(footprint "ProGCC 4 Library:5051100892"
 		(layer "B.Cu")
 		(uuid "05360c07-3091-4c15-a1c6-fcc3c35af953")
 		(at 47.15 58.075 180)
@@ -19611,7 +19611,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "B.Cu")
 		(uuid "15bc322f-06fa-4ffc-8e4a-bd54b11e3230")
 		(at 123.652734 37.216586 180)
@@ -20877,7 +20877,7 @@
 			)
 		)
 	)
-	(footprint "hhl:KSC-TE"
+	(footprint "ProGCC 4 Library:KSC-TE"
 		(layer "B.Cu")
 		(uuid "2a17c9ae-be0d-4c6f-99f3-91d84b699768")
 		(at 114.761814 62.529128 180)
@@ -21989,7 +21989,7 @@
 			)
 		)
 	)
-	(footprint "hhl:KSC-TE"
+	(footprint "ProGCC 4 Library:KSC-TE"
 		(layer "B.Cu")
 		(uuid "556803c9-8bad-44d7-9802-d8337d09dc5b")
 		(at 26.80626 62.529128 180)
@@ -23087,7 +23087,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "B.Cu")
 		(uuid "61165101-5b11-465b-b8b8-c066fe75f078")
 		(at 48.03883 66.834448 -90)
@@ -23793,7 +23793,7 @@
 			)
 		)
 	)
-	(footprint "hhl:JST_SM02B-SURS-TF_LF__SN_"
+	(footprint "ProGCC 4 Library:JST_SM02B-SURS-TF_LF__SN_"
 		(layer "B.Cu")
 		(uuid "63e16c44-ed99-4f3f-8881-cb7588f36c8c")
 		(at 111.975 67.925 180)
@@ -24729,7 +24729,7 @@
 			)
 		)
 	)
-	(footprint "hhl:LGA14"
+	(footprint "ProGCC 4 Library:LGA14"
 		(layer "B.Cu")
 		(uuid "719810d1-569c-40e2-9767-52b0a4423b3d")
 		(at 57.25 16.825 180)
@@ -25845,7 +25845,7 @@
 			)
 		)
 	)
-	(footprint "hhl:LGA14"
+	(footprint "ProGCC 4 Library:LGA14"
 		(layer "B.Cu")
 		(uuid "73a06929-a6ef-4f6e-8fc2-9d168af052f8")
 		(at 82.9 16.825 180)
@@ -26341,7 +26341,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "B.Cu")
 		(uuid "754b4910-da36-4de1-a084-5f2e13817d73")
 		(at 111.752734 26.929086 180)
@@ -27185,7 +27185,7 @@
 			)
 		)
 	)
-	(footprint "hhl:5051100592"
+	(footprint "ProGCC 4 Library:5051100592"
 		(layer "B.Cu")
 		(uuid "80512e85-5f78-4540-83c9-a74dae362371")
 		(at 56.775 22.299999)
@@ -27901,7 +27901,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "B.Cu")
 		(uuid "8abfea9f-237c-49ba-b886-33f2444f5bce")
 		(at 39.78883 58.584448 -90)
@@ -28356,7 +28356,7 @@
 			)
 		)
 	)
-	(footprint "hhl:5051100592"
+	(footprint "ProGCC 4 Library:5051100592"
 		(layer "B.Cu")
 		(uuid "8f5dd22a-e11b-4dbe-a6b0-3afb89d9638d")
 		(at 84.25 22.299999)
@@ -28827,7 +28827,7 @@
 			)
 		)
 	)
-	(footprint "hhl:RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias"
+	(footprint "ProGCC 4 Library:RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias"
 		(layer "B.Cu")
 		(uuid "8f8ed605-39ec-49b7-b4ac-23995f752ade")
 		(at 70.8 33.297225 45)
@@ -31723,7 +31723,7 @@
 			)
 		)
 	)
-	(footprint "hhl:L_pol_2016"
+	(footprint "ProGCC 4 Library:L_pol_2016"
 		(layer "B.Cu")
 		(uuid "ad4453f6-f228-4148-9066-4e8647297970")
 		(at 79.290963 36.833909 45)
@@ -33038,7 +33038,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "B.Cu")
 		(uuid "beb5fc4e-e8ed-46de-8552-ba75e5a98f41")
 		(at 56.28883 58.584448 -90)
@@ -36025,7 +36025,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "B.Cu")
 		(uuid "df941269-8718-4c01-b642-5ab5c7bc2dd9")
 		(at 99.852734 37.216586 180)
@@ -36480,7 +36480,7 @@
 			)
 		)
 	)
-	(footprint "hhl:5051101792"
+	(footprint "ProGCC 4 Library:5051101792"
 		(layer "B.Cu")
 		(uuid "dfcf3a98-6ed9-44d4-8244-bd866cdd8717")
 		(at 67.059 51.55)
@@ -37932,7 +37932,7 @@
 			)
 		)
 	)
-	(footprint "hhl:JST_SM02B-SURS-TF_LF__SN_"
+	(footprint "ProGCC 4 Library:JST_SM02B-SURS-TF_LF__SN_"
 		(layer "B.Cu")
 		(uuid "e7ebff1a-0281-4128-93d4-3e8ceefeb6cc")
 		(at 30.975 68.175 180)
@@ -38806,7 +38806,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "B.Cu")
 		(uuid "f108e26a-5980-4243-bcd6-73a79dfe12f1")
 		(at 48.03883 50.334448 -90)
@@ -39261,7 +39261,7 @@
 			)
 		)
 	)
-	(footprint "hhl:5051100892"
+	(footprint "ProGCC 4 Library:5051100892"
 		(layer "B.Cu")
 		(uuid "fa95ebe5-f0c3-46ee-8edb-2da17a35da12")
 		(at 112.45 40.625 -90)
@@ -39707,7 +39707,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "B.Cu")
 		(uuid "ffbc2134-056a-461e-9a27-f9dfe9410452")
 		(at 111.752734 47.504086 180)

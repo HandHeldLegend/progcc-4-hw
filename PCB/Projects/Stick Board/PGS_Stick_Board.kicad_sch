@@ -982,7 +982,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "progcc_v3:GL1807SYAE-002"
+		(symbol "ProGCC 4 Library:GL1807SYAE-002"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1009,7 +1009,7 @@
 					)
 				)
 			)
-			(property "Footprint" "hhl:GL1807SYAE"
+			(property "Footprint" "ProGCC 4 Library:GL1807SYAE"
 				(at 1.27 -11.938 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1322,7 +1322,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "progcc_v3:SK6805-EC-10"
+		(symbol "ProGCC 4 Library:SK6805-EC-10"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -1348,7 +1348,7 @@
 					)
 				)
 			)
-			(property "Footprint" "hhl:SK6805-EC-10"
+			(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 				(at 0 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2434,7 +2434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:5051100892"
+		(property "Footprint" "ProGCC 4 Library:5051100892"
 			(at 86.36 24.13 0)
 			(hide yes)
 			(show_name no)
@@ -2933,7 +2933,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 110.49 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -2963,7 +2963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 110.49 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -3095,7 +3095,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 59.69 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -3125,7 +3125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 59.69 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -3334,7 +3334,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 85.09 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -3364,7 +3364,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 85.09 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -3573,7 +3573,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:GL1807SYAE-002")
+		(lib_id "ProGCC 4 Library:GL1807SYAE-002")
 		(at 54.61 22.86 0)
 		(unit 1)
 		(body_style 1)
@@ -3603,7 +3603,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:GL1807SYAE"
+		(property "Footprint" "ProGCC 4 Library:GL1807SYAE"
 			(at 55.88 34.798 0)
 			(hide yes)
 			(show_name no)
@@ -4533,7 +4533,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 34.29 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -4563,7 +4563,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 34.29 73.66 0)
 			(hide yes)
 			(show_name no)

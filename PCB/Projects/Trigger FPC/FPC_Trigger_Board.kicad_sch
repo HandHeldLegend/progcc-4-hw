@@ -1674,7 +1674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:505110-0592 Ribbon"
+		(property "Footprint" "ProGCC 4 Library:505110-0592 Ribbon"
 			(at 21.59 127 0)
 			(hide yes)
 			(show_name no)
@@ -2264,7 +2264,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:505110-0592 Ribbon"
+		(property "Footprint" "ProGCC 4 Library:505110-0592 Ribbon"
 			(at 21.59 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -2441,7 +2441,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 35.56 50.165 0)
 			(hide yes)
 			(show_name no)
@@ -3560,7 +3560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 114.3 50.165 0)
 			(hide yes)
 			(show_name no)
@@ -3727,7 +3727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 74.93 50.165 0)
 			(hide yes)
 			(show_name no)
@@ -4125,7 +4125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 153.67 50.165 0)
 			(hide yes)
 			(show_name no)

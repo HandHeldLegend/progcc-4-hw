@@ -2370,7 +2370,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "hhl:BQ25180"
+		(symbol "ProGCC 4 Library:BQ25180"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2396,7 +2396,7 @@
 					)
 				)
 			)
-			(property "Footprint" "hhl:DSBGA"
+			(property "Footprint" "ProGCC 4 Library:DSBGA"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2612,7 +2612,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "hhl:BQ27621YZFR-G1A"
+		(symbol "ProGCC 4 Library:BQ27621YZFR-G1A"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -2640,7 +2640,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "hhl:BGA9C50P3X3_162X158X62"
+			(property "Footprint" "ProGCC 4 Library:BGA9C50P3X3_162X158X62"
 				(at 26.67 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2912,7 +2912,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "hhl:BSS138DW"
+		(symbol "ProGCC 4 Library:BSS138DW"
 			(pin_names
 				(hide yes)
 			)
@@ -3302,7 +3302,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "hhl:CUS08F30"
+		(symbol "ProGCC 4 Library:CUS08F30"
 			(pin_numbers
 				(hide yes)
 			)
@@ -3468,7 +3468,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "hhl:RPI-RM2"
+		(symbol "ProGCC 4 Library:RPI-RM2"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -3494,7 +3494,7 @@
 					)
 				)
 			)
-			(property "Footprint" "hhl:RPI_RM2"
+			(property "Footprint" "ProGCC 4 Library:RPI_RM2"
 				(at 0.254 15.748 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -3956,7 +3956,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "hhl:TPS63000DRCR"
+		(symbol "ProGCC 4 Library:TPS63000DRCR"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3987,7 +3987,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "hhl:VREG_V62_16624-01YE"
+			(property "Footprint" "ProGCC 4 Library:VREG_V62_16624-01YE"
 				(at -1.27 -16.51 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4475,7 +4475,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "hhl:USB4056-03-A"
+		(symbol "ProGCC 4 Library:USB4056-03-A"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -4503,7 +4503,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "hhl:USB405603A"
+			(property "Footprint" "ProGCC 4 Library:USB405603A"
 				(at 29.21 -94.92 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5361,172 +5361,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "progcc_v3:CUS08F30"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "D"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "CUS08F30"
-				(at 0 -2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "Diode_SMD:D_SOD-323_HandSoldering"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 -7.62 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Diode"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "diode"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "TO-???* *_Diode_* *SingleDiode* D_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CUS08F30_0_1"
-				(polyline
-					(pts
-						(xy -1.27 1.27) (xy -1.27 -1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 1.27) (xy 1.27 -1.27) (xy -1.27 0) (xy 1.27 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy -1.27 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "CUS08F30_1_1"
-				(pin passive line
-					(at -3.81 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 3.81 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -10706,7 +10540,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:CUS08F30")
+		(lib_id "ProGCC 4 Library:CUS08F30")
 		(at 138.43 44.45 90)
 		(unit 1)
 		(body_style 1)
@@ -10862,7 +10696,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:CUS08F30")
+		(lib_id "ProGCC 4 Library:CUS08F30")
 		(at 212.09 22.86 270)
 		(unit 1)
 		(body_style 1)
@@ -11174,7 +11008,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:RPI-RM2")
+		(lib_id "ProGCC 4 Library:RPI-RM2")
 		(at 109.22 172.72 0)
 		(unit 2)
 		(body_style 1)
@@ -11207,7 +11041,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hhl:RPI_RM2"
+		(property "Footprint" "ProGCC 4 Library:RPI_RM2"
 			(at 109.474 156.972 0)
 			(hide yes)
 			(show_name no)
@@ -12653,7 +12487,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:BSS138DW")
+		(lib_id "ProGCC 4 Library:BSS138DW")
 		(at 236.22 27.94 0)
 		(mirror y)
 		(unit 1)
@@ -13417,7 +13251,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:CUS08F30")
+		(lib_id "ProGCC 4 Library:CUS08F30")
 		(at 114.3 118.11 180)
 		(unit 1)
 		(body_style 1)
@@ -15536,7 +15370,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:5051101792"
+		(property "Footprint" "ProGCC 4 Library:5051101792"
 			(at 176.53 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -15826,7 +15660,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:BSS138DW")
+		(lib_id "ProGCC 4 Library:BSS138DW")
 		(at 257.81 67.31 0)
 		(mirror y)
 		(unit 1)
@@ -15999,7 +15833,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:BSS138DW")
+		(lib_id "ProGCC 4 Library:BSS138DW")
 		(at 257.81 38.1 0)
 		(mirror y)
 		(unit 2)
@@ -16484,7 +16318,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:USB4056-03-A")
+		(lib_id "ProGCC 4 Library:USB4056-03-A")
 		(at 228.6 121.92 0)
 		(unit 1)
 		(body_style 1)
@@ -16515,7 +16349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:USB405603A"
+		(property "Footprint" "ProGCC 4 Library:USB405603A"
 			(at 257.81 216.84 0)
 			(hide yes)
 			(show_name no)
@@ -16937,7 +16771,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:BQ27621YZFR-G1A")
+		(lib_id "ProGCC 4 Library:BQ27621YZFR-G1A")
 		(at 45.72 105.41 0)
 		(unit 1)
 		(body_style 1)
@@ -16968,7 +16802,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:BGA9C50P3X3_162X158X62"
+		(property "Footprint" "ProGCC 4 Library:BGA9C50P3X3_162X158X62"
 			(at 72.39 200.33 0)
 			(hide yes)
 			(show_name no)
@@ -18516,7 +18350,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:BSS138DW")
+		(lib_id "ProGCC 4 Library:BSS138DW")
 		(at 257.81 96.52 0)
 		(mirror y)
 		(unit 2)
@@ -18856,7 +18690,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:RPI-RM2")
+		(lib_id "ProGCC 4 Library:RPI-RM2")
 		(at 143.51 172.72 0)
 		(unit 3)
 		(body_style 1)
@@ -18889,7 +18723,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hhl:RPI_RM2"
+		(property "Footprint" "ProGCC 4 Library:RPI_RM2"
 			(at 143.764 156.972 0)
 			(hide yes)
 			(show_name no)
@@ -20101,7 +19935,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:TPS63000DRCR")
+		(lib_id "ProGCC 4 Library:TPS63000DRCR")
 		(at 191.77 43.18 0)
 		(unit 1)
 		(body_style 1)
@@ -20131,7 +19965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:VREG_V62_16624-01YE"
+		(property "Footprint" "ProGCC 4 Library:VREG_V62_16624-01YE"
 			(at 191.77 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -20720,7 +20554,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:BQ25180")
+		(lib_id "ProGCC 4 Library:BQ25180")
 		(at 120.65 100.33 0)
 		(unit 1)
 		(body_style 1)
@@ -20750,7 +20584,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:DSBGA"
+		(property "Footprint" "ProGCC 4 Library:DSBGA"
 			(at 120.65 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -21029,7 +20863,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:RPI-RM2")
+		(lib_id "ProGCC 4 Library:RPI-RM2")
 		(at 143.51 144.78 0)
 		(unit 1)
 		(body_style 1)
@@ -21062,7 +20896,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hhl:RPI_RM2"
+		(property "Footprint" "ProGCC 4 Library:RPI_RM2"
 			(at 143.764 129.032 0)
 			(hide yes)
 			(show_name no)

@@ -138,7 +138,7 @@
 			(outputdirectory "../../Production/Stick Board/Gerber/")
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "2281270e-a179-4489-a784-23ef12c146b2")
 		(at 59.725 54.955329)
@@ -405,7 +405,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "35e6e488-ecec-4cf5-b3cc-0fb310dfeb1b")
 		(at 42.725 41.955329)
@@ -963,7 +963,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "910a45db-5378-44c1-beef-105932b8aeac")
 		(at 59.725 41.955329)
@@ -1388,7 +1388,7 @@
 			)
 		)
 	)
-	(footprint "hhl:5051100892"
+	(footprint "ProGCC 4 Library:5051100892"
 		(layer "F.Cu")
 		(uuid "9c30eb25-fec6-4aa3-844b-ac0feb91fc43")
 		(at 33.65 36.35 180)
@@ -2272,7 +2272,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SK6805-EC-10"
+	(footprint "ProGCC 4 Library:SK6805-EC-10"
 		(layer "F.Cu")
 		(uuid "e20ea5a4-5822-434a-8699-4dd7a0273b62")
 		(at 42.725 54.955329)
@@ -2539,7 +2539,7 @@
 			)
 		)
 	)
-	(footprint "hhl:GL1807SYAE"
+	(footprint "ProGCC 4 Library:GL1807SYAE"
 		(layer "F.Cu")
 		(uuid "e5a20dd8-6117-42b5-b3c9-a4b6b70c2c8e")
 		(at 51.225 48.455329)

@@ -1054,7 +1054,7 @@
 			)
 		)
 	)
-	(footprint "hhl:DSBGA"
+	(footprint "ProGCC 4 Library:DSBGA"
 		(layer "F.Cu")
 		(uuid "1fca2830-02b2-4975-a2c8-e33622580bb9")
 		(at 76.625 30.725)
@@ -1654,7 +1654,7 @@
 			)
 		)
 	)
-	(footprint "hhl:RPI_RM2"
+	(footprint "ProGCC 4 Library:RPI_RM2"
 		(layer "F.Cu")
 		(uuid "368019d0-a33d-4f6c-9637-748f7596e575")
 		(at 54.5 33.925)
@@ -2118,7 +2118,7 @@
 			(uuid "e435a07b-c637-4805-9a7b-612e88a2c40a")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Mitch/GitRepos/HHL-KiCad-Lib/models/RM2MODULE.step"
+		(model "${KIPRJMOD}/../../Libraries/3dmodels/RM2MODULE.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5909,7 +5909,7 @@
 			)
 		)
 	)
-	(footprint "hhl:BGA9C50P3X3_162X158X62"
+	(footprint "ProGCC 4 Library:BGA9C50P3X3_162X158X62"
 		(layer "F.Cu")
 		(uuid "94ef066c-7ca5-410b-af44-99485b0bcef4")
 		(at 78.6718 41.7656 90)
@@ -6347,7 +6347,7 @@
 			(uuid "0d704c35-53cb-4b57-8095-318451118b94")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Mitch/GitRepos/HHL-KiCad-Lib/models/BQ27621YZFR.stp"
+		(model "${KIPRJMOD}/../../Libraries/3dmodels/BQ27621YZFR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6982,7 +6982,7 @@
 			)
 		)
 	)
-	(footprint "hhl:VREG_V62_16624-01YE"
+	(footprint "ProGCC 4 Library:VREG_V62_16624-01YE"
 		(layer "F.Cu")
 		(uuid "aaf0eb18-f987-4338-a315-b22e73f3de03")
 		(at 82.2 32.325 -90)
@@ -10424,7 +10424,7 @@
 			)
 		)
 	)
-	(footprint "hhl:USB405603A"
+	(footprint "ProGCC 4 Library:USB405603A"
 		(layer "F.Cu")
 		(uuid "cbfa76d6-94b7-4257-b55c-5b3ce84bde28")
 		(at 67.074998 19.573 180)
@@ -11122,7 +11122,7 @@
 			(uuid "6e73a940-ae05-41e9-ae23-50b71655217c")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Mitch/GitRepos/HHL-KiCad-Lib/models/USB4056-03-A.stp"
+		(model "${KIPRJMOD}/../../Libraries/3dmodels/USB4056-03-A.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -12536,7 +12536,7 @@
 			)
 		)
 	)
-	(footprint "hhl:5051101792"
+	(footprint "ProGCC 4 Library:5051101792"
 		(layer "F.Cu")
 		(uuid "e70274c5-9787-4fca-b7fd-cb70774ea3ef")
 		(at 63.35 46.675)
@@ -12994,7 +12994,7 @@
 			(uuid "7d693884-1d22-48ae-896b-e86e847c79eb")
 		)
 		(embedded_fonts no)
-		(model "C:/Users/Mitch/GitRepos/HHL-KiCad-Lib/models/505110-1792.stp"
+		(model "${KIPRJMOD}/../../Libraries/3dmodels/505110-1792.stp"
 			(offset
 				(xyz 0 -1.450000026 0.01999999925)
 			)

@@ -3402,7 +3402,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "hhl:RP2350_80QFN"
+		(symbol "ProGCC 4 Library:RP2350_80QFN"
 			(pin_names
 				(offset 1.016)
 			)
@@ -3431,7 +3431,7 @@
 					)
 				)
 			)
-			(property "Footprint" "RP2350_80QFN_minimal:RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias"
+			(property "Footprint" "ProGCC 4 Library:RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias"
 				(at -19.05 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4959,7 +4959,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "hhl:SM02B-SURS-TF_LF__SN_"
+		(symbol "ProGCC 4 Library:SM02B-SURS-TF_LF__SN_"
 			(pin_names
 				(offset 1.016)
 			)
@@ -4990,7 +4990,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "hhl:JST_SM02B-SURS-TF_LF__SN_"
+			(property "Footprint" "ProGCC 4 Library:JST_SM02B-SURS-TF_LF__SN_"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5637,7 +5637,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "progcc_v3:SK6805-EC-10"
+		(symbol "ProGCC 4 Library:SK6805-EC-10"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5663,7 +5663,7 @@
 					)
 				)
 			)
-			(property "Footprint" "hhl:SK6805-EC-10"
+			(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 				(at 0 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -5797,7 +5797,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "progcc_v3:ST_LSM6"
+		(symbol "ProGCC 4 Library:ST_LSM6"
 			(pin_names
 				(offset 1.016)
 			)
@@ -5826,7 +5826,7 @@
 					)
 				)
 			)
-			(property "Footprint" "hhl:LGA14"
+			(property "Footprint" "ProGCC 4 Library:LGA14"
 				(at 0 11.43 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -16578,7 +16578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:5051100892"
+		(property "Footprint" "ProGCC 4 Library:5051100892"
 			(at 134.62 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -16797,7 +16797,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:5051101792"
+		(property "Footprint" "ProGCC 4 Library:5051101792"
 			(at 274.32 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -16935,7 +16935,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 377.19 242.57 0)
 		(unit 1)
 		(body_style 1)
@@ -16965,7 +16965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 377.19 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -17097,7 +17097,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 326.39 242.57 0)
 		(unit 1)
 		(body_style 1)
@@ -17127,7 +17127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 326.39 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -17259,7 +17259,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:RP2350_80QFN")
+		(lib_id "ProGCC 4 Library:RP2350_80QFN")
 		(at 105.41 176.53 0)
 		(unit 1)
 		(body_style 1)
@@ -17292,7 +17292,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hhl:RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias"
+		(property "Footprint" "ProGCC 4 Library:RP2350-QFN-80-1EP_10x10_P0.4mm_EP3.4x3.4mm_ThermalVias"
 			(at 86.36 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -21471,7 +21471,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 300.99 185.42 0)
 		(unit 1)
 		(body_style 1)
@@ -21501,7 +21501,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 300.99 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -21868,7 +21868,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 300.99 224.79 0)
 		(unit 1)
 		(body_style 1)
@@ -21898,7 +21898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 300.99 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -22887,7 +22887,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:ST_LSM6")
+		(lib_id "ProGCC 4 Library:ST_LSM6")
 		(at 218.44 231.14 0)
 		(unit 1)
 		(body_style 1)
@@ -22917,7 +22917,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:LGA14"
+		(property "Footprint" "ProGCC 4 Library:LGA14"
 			(at 218.44 219.71 0)
 			(hide yes)
 			(show_name no)
@@ -26382,7 +26382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 374.65 89.535 0)
 			(hide yes)
 			(show_name no)
@@ -26969,7 +26969,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 351.79 242.57 0)
 		(unit 1)
 		(body_style 1)
@@ -26999,7 +26999,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 351.79 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -27550,7 +27550,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:5051100592"
+		(property "Footprint" "ProGCC 4 Library:5051100592"
 			(at 248.92 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -28166,7 +28166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:KSC-TE"
+		(property "Footprint" "ProGCC 4 Library:KSC-TE"
 			(at 113.03 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -28826,7 +28826,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 377.19 224.79 0)
 		(unit 1)
 		(body_style 1)
@@ -28856,7 +28856,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 377.19 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -29317,7 +29317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:KSC-TE"
+		(property "Footprint" "ProGCC 4 Library:KSC-TE"
 			(at 113.03 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -29596,7 +29596,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 300.99 198.12 0)
 		(unit 1)
 		(body_style 1)
@@ -29626,7 +29626,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 300.99 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -29866,7 +29866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:5051100592"
+		(property "Footprint" "ProGCC 4 Library:5051100592"
 			(at 275.59 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -30892,7 +30892,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:ST_LSM6")
+		(lib_id "ProGCC 4 Library:ST_LSM6")
 		(at 218.44 191.77 0)
 		(unit 1)
 		(body_style 1)
@@ -30922,7 +30922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:LGA14"
+		(property "Footprint" "ProGCC 4 Library:LGA14"
 			(at 218.44 180.34 0)
 			(hide yes)
 			(show_name no)
@@ -32242,7 +32242,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 326.39 185.42 0)
 		(unit 1)
 		(body_style 1)
@@ -32272,7 +32272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 326.39 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -32665,7 +32665,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:KSC-TE"
+		(property "Footprint" "ProGCC 4 Library:KSC-TE"
 			(at 113.03 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -34031,7 +34031,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 328.93 107.315 0)
 			(hide yes)
 			(show_name no)
@@ -34244,7 +34244,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:SM02B-SURS-TF_LF__SN_")
+		(lib_id "ProGCC 4 Library:SM02B-SURS-TF_LF__SN_")
 		(at 325.12 31.75 180)
 		(unit 1)
 		(body_style 1)
@@ -34276,7 +34276,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hhl:JST_SM02B-SURS-TF_LF__SN_"
+		(property "Footprint" "ProGCC 4 Library:JST_SM02B-SURS-TF_LF__SN_"
 			(at 325.12 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -34921,7 +34921,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 351.79 185.42 0)
 		(unit 1)
 		(body_style 1)
@@ -34951,7 +34951,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 351.79 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -35412,7 +35412,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 328.93 125.095 0)
 			(hide yes)
 			(show_name no)
@@ -35881,7 +35881,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 377.19 185.42 0)
 		(unit 1)
 		(body_style 1)
@@ -35911,7 +35911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 377.19 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -36043,7 +36043,7 @@
 		)
 	)
 	(symbol
-		(lib_id "hhl:SM02B-SURS-TF_LF__SN_")
+		(lib_id "ProGCC 4 Library:SM02B-SURS-TF_LF__SN_")
 		(at 236.22 31.75 180)
 		(unit 1)
 		(body_style 1)
@@ -36075,7 +36075,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hhl:JST_SM02B-SURS-TF_LF__SN_"
+		(property "Footprint" "ProGCC 4 Library:JST_SM02B-SURS-TF_LF__SN_"
 			(at 236.22 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -36360,7 +36360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:KSC-TE"
+		(property "Footprint" "ProGCC 4 Library:KSC-TE"
 			(at 113.03 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -36687,7 +36687,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "hhl:L_pol_2016"
+		(property "Footprint" "ProGCC 4 Library:L_pol_2016"
 			(at 41.91 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -36844,7 +36844,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 374.65 125.095 0)
 			(hide yes)
 			(show_name no)
@@ -37388,7 +37388,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:KSC-TE"
+		(property "Footprint" "ProGCC 4 Library:KSC-TE"
 			(at 113.03 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -37545,7 +37545,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 328.93 142.875 0)
 			(hide yes)
 			(show_name no)
@@ -38024,7 +38024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 374.65 142.875 0)
 			(hide yes)
 			(show_name no)
@@ -39117,7 +39117,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 326.39 224.79 0)
 		(unit 1)
 		(body_style 1)
@@ -39147,7 +39147,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 326.39 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -39464,7 +39464,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:5051100892"
+		(property "Footprint" "ProGCC 4 Library:5051100892"
 			(at 134.62 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -39841,7 +39841,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:KSC-TE"
+		(property "Footprint" "ProGCC 4 Library:KSC-TE"
 			(at 68.58 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -40367,7 +40367,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 351.79 224.79 0)
 		(unit 1)
 		(body_style 1)
@@ -40397,7 +40397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 351.79 240.03 0)
 			(hide yes)
 			(show_name no)
@@ -40636,7 +40636,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:KSC-TE"
+		(property "Footprint" "ProGCC 4 Library:KSC-TE"
 			(at 68.58 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -40951,7 +40951,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 328.93 89.535 0)
 			(hide yes)
 			(show_name no)
@@ -41117,7 +41117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:KSC-TE"
+		(property "Footprint" "ProGCC 4 Library:KSC-TE"
 			(at 113.03 22.86 0)
 			(hide yes)
 			(show_name no)
@@ -41520,7 +41520,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:KSC-TE"
+		(property "Footprint" "ProGCC 4 Library:KSC-TE"
 			(at 113.03 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -41892,7 +41892,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 326.39 198.12 0)
 		(unit 1)
 		(body_style 1)
@@ -41922,7 +41922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 326.39 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -42232,7 +42232,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 300.99 242.57 0)
 		(unit 1)
 		(body_style 1)
@@ -42262,7 +42262,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 300.99 257.81 0)
 			(hide yes)
 			(show_name no)
@@ -43958,7 +43958,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 377.19 198.12 0)
 		(unit 1)
 		(body_style 1)
@@ -43988,7 +43988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 377.19 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -44530,7 +44530,7 @@
 		)
 	)
 	(symbol
-		(lib_id "progcc_v3:SK6805-EC-10")
+		(lib_id "ProGCC 4 Library:SK6805-EC-10")
 		(at 351.79 198.12 0)
 		(unit 1)
 		(body_style 1)
@@ -44560,7 +44560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SK6805-EC-10"
+		(property "Footprint" "ProGCC 4 Library:SK6805-EC-10"
 			(at 351.79 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -44878,7 +44878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hhl:SOT-23-5L"
+		(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 			(at 374.65 107.315 0)
 			(hide yes)
 			(show_name no)

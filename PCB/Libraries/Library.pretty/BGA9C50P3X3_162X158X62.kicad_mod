@@ -1,0 +1,349 @@
+(footprint "BGA9C50P3X3_162X158X62"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "YZF0009-CO1")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC1"
+		(at 1.9478 0.762 0)
+		(layer "F.SilkS")
+		(uuid "5974fc9d-7359-4c28-941d-65bbe01e8cde")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "BQ27621YZFR-G1A"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "72b61d0d-5501-438e-9c97-9c197c63c9ce")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.ti.com/lit/gpn/bq27621-g1"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9688a209-3100-4f54-997a-c4aeb02187b3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "System-Side Fuel Gauge with Dynamic Voltage Correlation, Battery Gas Gauge"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "567c6b08-b4e7-4b0a-a830-f755c5e6d986")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.625"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ced0731c-0da3-4557-bc41-985ccf61ea48")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "595-BQ27621YZFR-G1A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98bc21a2-74b1-4755-9863-aadd67373692")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ27621YZFR-G1A?qs=%252BFzhjShcsaLS%2F3kQ1IocjQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c750393-9038-4f93-91ac-0ae5de8c0365")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0bb690e1-6c71-4f1a-bfb2-5661402bfef7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "BQ27621YZFR-G1A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e771988-95bd-4def-80aa-aabf8659ef4c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.995 -0.5)
+		(end -0.5 -0.995)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1af41609-bf6e-4fd7-81d8-1ed2145fe965")
+	)
+	(fp_line
+		(start -0.995 0.995)
+		(end -0.995 -0.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "57031145-d94d-4c96-b091-1d6f7df7535c")
+	)
+	(fp_line
+		(start -0.5 -0.995)
+		(end 0.995 -0.995)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c4b9e349-9fad-4881-af1e-2a2efcd07d22")
+	)
+	(fp_line
+		(start 0.995 -0.995)
+		(end 0.995 0.995)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1d2c0027-04cf-4e50-81a0-8aee0d3d2df8")
+	)
+	(fp_line
+		(start 0.995 0.995)
+		(end -0.995 0.995)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b725951e-e522-442c-9285-9e50408edb2d")
+	)
+	(fp_circle
+		(center -0.995 -0.995)
+		(end -0.995 -0.895)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d1671a33-0bcb-4d7c-b40a-67dc2859ba99")
+	)
+	(fp_line
+		(start -1.825 -1.805)
+		(end 1.825 -1.805)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d0db1444-8b89-44d0-8a1f-ea1334ee98de")
+	)
+	(fp_line
+		(start -1.825 1.805)
+		(end -1.825 -1.805)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e22406f7-0798-4a60-89e5-cd71152210ae")
+	)
+	(fp_line
+		(start 1.825 -1.805)
+		(end 1.825 1.805)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "06a13e8b-9ea4-48e8-b46b-9da72de5b879")
+	)
+	(fp_line
+		(start 1.825 1.805)
+		(end -1.825 1.805)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "47d0e5f5-85ae-4ec0-9480-951af1c94036")
+	)
+	(fp_line
+		(start -0.81 -0.79)
+		(end 0.81 -0.79)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7b134303-2045-4a53-b3d0-a5232ad8a36f")
+	)
+	(fp_line
+		(start -0.81 -0.388)
+		(end -0.408 -0.79)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "268ba82f-bd1e-4ea7-989a-56d5f2c90dec")
+	)
+	(fp_line
+		(start -0.81 0.79)
+		(end -0.81 -0.79)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1427b321-bc11-4b36-a635-7f3df3a8431a")
+	)
+	(fp_line
+		(start 0.81 -0.79)
+		(end 0.81 0.79)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3e931170-e361-46d4-8648-f0d33fc98064")
+	)
+	(fp_line
+		(start 0.81 0.79)
+		(end -0.81 0.79)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "12bafe22-edc2-406c-a3ec-30385542a9e4")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "7b02d814-d2b0-40f1-b50d-fe131cbd2757")
+		(effects
+			(font
+				(size 0.6 0.6)
+				(thickness 0.1)
+			)
+		)
+	)
+	(pad "A1" smd circle
+		(at -0.5 -0.5 90)
+		(size 0.29 0.29)
+		(layers "F.Cu" "F.Mask")
+		(uuid "e83462d2-0c48-4d20-ae21-b18ba5044e7c")
+	)
+	(pad "A2" smd circle
+		(at 0 -0.5 90)
+		(size 0.29 0.29)
+		(layers "F.Cu" "F.Mask")
+		(uuid "2cadb1b5-4a04-43d1-9382-035fbac5bcff")
+	)
+	(pad "A3" smd circle
+		(at 0.5 -0.5 90)
+		(size 0.29 0.29)
+		(layers "F.Cu" "F.Mask")
+		(uuid "faf3109b-f2fd-4bd7-b417-38e4930ad1bb")
+	)
+	(pad "B1" smd circle
+		(at -0.5 0 90)
+		(size 0.29 0.29)
+		(layers "F.Cu" "F.Mask")
+		(uuid "ccd29d36-beb2-4eb4-9a84-bededb78aad3")
+	)
+	(pad "B2" smd circle
+		(at 0 0 90)
+		(size 0.29 0.29)
+		(layers "F.Cu" "F.Mask")
+		(uuid "6192ce10-ce51-4aa9-88cc-253ca59f887e")
+	)
+	(pad "B3" smd circle
+		(at 0.5 0 90)
+		(size 0.29 0.29)
+		(layers "F.Cu" "F.Mask")
+		(uuid "eef26db6-cd33-4b35-889a-c23544a8f90f")
+	)
+	(pad "C1" smd circle
+		(at -0.5 0.5 90)
+		(size 0.29 0.29)
+		(layers "F.Cu" "F.Mask")
+		(uuid "a45ec36b-bad5-4b19-910c-3746c4e65cbb")
+	)
+	(pad "C2" smd circle
+		(at 0 0.5 90)
+		(size 0.29 0.29)
+		(layers "F.Cu" "F.Mask")
+		(uuid "735b7eea-abd5-4de3-803f-a51646bfc998")
+	)
+	(pad "C3" smd circle
+		(at 0.5 0.5 90)
+		(size 0.29 0.29)
+		(layers "F.Cu" "F.Mask")
+		(uuid "eddf0449-4a72-4ff8-8566-ad3543fd8a7c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/../../Libraries/3dmodels/BQ27621YZFR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

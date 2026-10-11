@@ -139,7 +139,7 @@
 			(outputdirectory "../../Production/Trigger Board/Gerbers/")
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "F.Cu")
 		(uuid "12ce7e36-7bc0-41ac-a342-75dca9cbdf32")
 		(at 241.408396 156.966586 -90)
@@ -886,7 +886,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "F.Cu")
 		(uuid "80634bc2-6b61-4bcc-b574-74b93048dc00")
 		(at 230.213014 156.966586 -90)
@@ -2241,7 +2241,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "F.Cu")
 		(uuid "ed994f65-61da-4694-9d4f-946d86c16dc4")
 		(at 230.213144 144.905691 -90)
@@ -2684,7 +2684,7 @@
 			)
 		)
 	)
-	(footprint "hhl:SOT-23-5L"
+	(footprint "ProGCC 4 Library:SOT-23-5L"
 		(layer "F.Cu")
 		(uuid "f4142966-e304-465c-b1a3-72fe52f8c724")
 		(at 241.408267 144.905691 -90)
@@ -3127,7 +3127,7 @@
 			)
 		)
 	)
-	(footprint "hhl:505110-0592 Ribbon"
+	(footprint "ProGCC 4 Library:505110-0592 Ribbon"
 		(layer "B.Cu")
 		(uuid "42faa9a4-48b5-4e5b-bb5b-c891f4c21cc0")
 		(at 199.95 160.6 -90)
@@ -3339,7 +3339,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "hhl:505110-0592 Ribbon"
+	(footprint "ProGCC 4 Library:505110-0592 Ribbon"
 		(layer "B.Cu")
 		(uuid "86cd9bf4-0725-4ee0-972a-27babd2ea2f9")
 		(at 271.575 160.6 -90)

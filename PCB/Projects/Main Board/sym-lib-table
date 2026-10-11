@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "ProGCC 4 Library") (type "KiCad") (uri "${KIPRJMOD}/../../Libraries/ProGCC 4 Library.kicad_sym") (options "") (descr "ProGCC 4 project symbols"))
+)
