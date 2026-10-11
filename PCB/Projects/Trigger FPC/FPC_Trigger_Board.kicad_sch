@@ -470,7 +470,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Regulator_Linear:TLV70012_SOT23-5"
+		(symbol "ProGCC 4 Library:HAL4395"
 			(pin_names
 				(offset 0.254)
 			)
@@ -479,7 +479,7 @@
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "U1"
+			(property "Reference" "U"
 				(at 0 7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -499,7 +499,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(property "Footprint" "ProGCC 4 Library:SOT-23-5L"
 				(at 0 8.255 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -522,7 +522,7 @@
 					)
 				)
 			)
-			(property "Description" "SOT-23-5L Linear, Compass (ICs) ROHS"
+			(property "Description" "Linear Hall-effect sensor, ratiometric analog output, active-low enable, tri-state output when disabled, SOT-23-5L"
 				(at 3.048 5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -533,7 +533,7 @@
 					)
 				)
 			)
-			(property "ki_keywords" "200mA LDO Regulator Fixed Positive"
+			(property "ki_keywords" "hall sensor linear analog magnetic Hallwee"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -555,7 +555,40 @@
 					)
 				)
 			)
-			(symbol "TLV70012_SOT23-5_0_1"
+			(property "MPN" "HAL4395SO5"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "Hallwee"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C49165022"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "HAL4395_0_1"
 				(rectangle
 					(start -5.08 4.445)
 					(end 5.08 -5.08)
@@ -568,7 +601,7 @@
 					)
 				)
 			)
-			(symbol "TLV70012_SOT23-5_1_1"
+			(symbol "HAL4395_1_1"
 				(pin power_in line
 					(at -7.62 2.54 0)
 					(length 2.54)
@@ -642,7 +675,7 @@
 						)
 					)
 				)
-				(pin output line
+				(pin tri_state line
 					(at 7.62 2.54 180)
 					(length 2.54)
 					(name "OUT"
@@ -2410,7 +2443,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:TLV70012_SOT23-5")
+		(lib_id "ProGCC 4 Library:HAL4395")
 		(at 35.56 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -2464,7 +2497,7 @@
 				)
 			)
 		)
-		(property "Description" "SOT-23-5L Linear, Compass (ICs) ROHS"
+		(property "Description" "Linear Hall-effect sensor, ratiometric analog output, active-low enable, tri-state output when disabled, SOT-23-5L"
 			(at 38.608 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -3529,7 +3562,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:TLV70012_SOT23-5")
+		(lib_id "ProGCC 4 Library:HAL4395")
 		(at 114.3 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -3583,7 +3616,7 @@
 				)
 			)
 		)
-		(property "Description" "SOT-23-5L Linear, Compass (ICs) ROHS"
+		(property "Description" "Linear Hall-effect sensor, ratiometric analog output, active-low enable, tri-state output when disabled, SOT-23-5L"
 			(at 117.348 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -3696,7 +3729,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:TLV70012_SOT23-5")
+		(lib_id "ProGCC 4 Library:HAL4395")
 		(at 74.93 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -3750,7 +3783,7 @@
 				)
 			)
 		)
-		(property "Description" "SOT-23-5L Linear, Compass (ICs) ROHS"
+		(property "Description" "Linear Hall-effect sensor, ratiometric analog output, active-low enable, tri-state output when disabled, SOT-23-5L"
 			(at 77.978 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -4094,7 +4127,7 @@
 		)
 	)
 	(symbol
-		(lib_id "Regulator_Linear:TLV70012_SOT23-5")
+		(lib_id "ProGCC 4 Library:HAL4395")
 		(at 153.67 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -4148,7 +4181,7 @@
 				)
 			)
 		)
-		(property "Description" "SOT-23-5L Linear, Compass (ICs) ROHS"
+		(property "Description" "Linear Hall-effect sensor, ratiometric analog output, active-low enable, tri-state output when disabled, SOT-23-5L"
 			(at 156.718 53.34 0)
 			(hide yes)
 			(show_name no)
