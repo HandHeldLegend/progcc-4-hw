@@ -1,0 +1,7 @@
+(version 1)
+
+# FPC tail contact fingers (J1/J2) must run to the board edge to mate with
+# the Molex 505110 connectors on the Main board.
+(rule "FPC fingers reach the edge"
+	(constraint edge_clearance (min 0mm))
+	(condition "A.memberOfFootprint('ProGCC 4 Library:505110-0592 Ribbon')"))
