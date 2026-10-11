@@ -462,7 +462,7 @@
 		(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0 -1.05 0)
+			(at 1.2 0.05 0)
 			(layer "F.SilkS")
 			(uuid "b9bbd6ae-302f-4aec-9ce0-c6f5576a0ecf")
 			(effects
