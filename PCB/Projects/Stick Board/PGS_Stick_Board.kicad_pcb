@@ -3042,7 +3042,7 @@
 	)
 	(gr_line
 		(start 37.082864 60.476144)
-		(end 39.204173 62.597454)
+		(end 39.204185 62.597442)
 		(stroke
 			(width 0.01)
 			(type default)
@@ -3091,16 +3091,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "0e340d40-46a7-4fe8-b51f-3aa7870bdb5e")
-	)
-	(gr_line
-		(start 39.204185 62.597442)
-		(end 39.204173 62.597454)
-		(stroke
-			(width 0.01)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "697ec61c-4d08-4d46-b6ca-62101ddcbc07")
 	)
 	(gr_circle
 		(center 39.619609 60.060719)
@@ -4658,24 +4648,6 @@
 		(uuid "747b26c6-db87-4ee5-a4d7-617d3a4a2f88")
 	)
 	(via
-		(at 59.225 56.525)
-		(size 0.6)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(capping no)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(net "+3V3")
-		(uuid "82ae7405-0192-4ca0-863c-f7687c56c421")
-	)
-	(via
 		(at 55.325 58.225)
 		(size 0.6)
 		(drill 0.3)
@@ -5412,14 +5384,6 @@
 		(layer "F.Cu")
 		(net "OUT_Y")
 		(uuid "26372bcb-a39e-4143-800d-b5f7e38e1a32")
-	)
-	(segment
-		(start 62.9 48.775329)
-		(end 62.9 48.480329)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "OUT_Y")
-		(uuid "2e95e9db-7903-4897-85db-1eaf1044d26f")
 	)
 	(segment
 		(start 41.4 55.95)
