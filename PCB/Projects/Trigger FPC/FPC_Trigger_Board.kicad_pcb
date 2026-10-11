@@ -101,7 +101,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_555555d5_5755fdff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -179,7 +178,7 @@
 				)
 			)
 		)
-		(property "Description" "SOT-23-5L Linear, Compass (ICs) ROHS"
+		(property "Description" "Linear Hall-effect sensor, ratiometric analog output, active-low enable, tri-state output when disabled, SOT-23-5L"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -187,19 +186,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "63cc0969-f8f0-4190-a80f-70591ef2ee90")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -236,45 +222,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1362bc4b-4a63-419a-990e-d87ce22acdfc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e576ade6-ad8c-44c7-ac14-ef63ecf981e9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "12258bf8-82d6-4c8f-a912-ca41492fbcdf")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b343fe5b-2c81-419b-8b66-84299a9490a3")
 			(effects
 				(font
 					(size 1 1)
@@ -566,7 +513,7 @@
 			(roundrect_rratio 0.25)
 			(net "ADC_3")
 			(pinfunction "OUT_5")
-			(pintype "output")
+			(pintype "tri_state")
 			(uuid "c8029b99-017a-436d-b032-5366febf3e35")
 		)
 		(embedded_fonts no)
@@ -610,7 +557,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -634,51 +581,12 @@
 				)
 			)
 		)
-		(property "Confirmed" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2dd23fb3-6239-470e-8045-1f3cc37f0d28")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d0dd7cc8-f87e-4dc6-a4a1-679f89d5f5b0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "LCSC" "C76934"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e8c893c2-454b-444b-b298-a51e4d2d4a45")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Link" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "7f0537b8-2d21-4da9-9354-45a2df12f344")
 			(effects
 				(font
 					(size 1 1)
@@ -705,32 +613,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b16adedd-edc7-4f5d-b58c-87f04ab70df4")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Package" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "c147ed95-07f1-46ca-bfa7-33d30ef1e92f")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Price" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "796ffdb9-7181-4ada-9066-d2021baffc08")
 			(effects
 				(font
 					(size 1 1)
@@ -926,7 +808,7 @@
 				)
 			)
 		)
-		(property "Description" "SOT-23-5L Linear, Compass (ICs) ROHS"
+		(property "Description" "Linear Hall-effect sensor, ratiometric analog output, active-low enable, tri-state output when disabled, SOT-23-5L"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -934,19 +816,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2e6ac1e8-5e9b-4d8a-81ff-7b865a41acd5")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -983,45 +852,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b76e5066-9089-4b11-837b-3160b8706427")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e21f77d0-6d20-4168-b0c6-ff5953e19904")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e4551375-7878-48fc-b151-75fe8a204623")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "572c35db-3de7-43b9-be57-c0439100a0b3")
 			(effects
 				(font
 					(size 1 1)
@@ -1313,7 +1143,7 @@
 			(roundrect_rratio 0.25)
 			(net "ADC_1")
 			(pinfunction "OUT_5")
-			(pintype "output")
+			(pintype "tri_state")
 			(uuid "1cf42787-d8ce-4697-afc9-0ae2c166a1ff")
 		)
 		(embedded_fonts no)
@@ -1357,7 +1187,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1381,51 +1211,12 @@
 				)
 			)
 		)
-		(property "Confirmed" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8226618f-cede-4533-b43c-e7cf26b7feed")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4595bc2b-9cad-424f-82e3-a8dccd05e29d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "LCSC" "C76934"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "aa47b2fe-602c-41ff-aae1-a25a3aee8766")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Link" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "496d6299-5580-4ddc-8743-b1a4386db22a")
 			(effects
 				(font
 					(size 1 1)
@@ -1452,32 +1243,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bf22cffb-b6a2-4dd9-8b68-4ba2951c597a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Package" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "92f47b64-2380-4459-a6f2-179ca4c4ed58")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Price" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "cfcec679-59e9-4d9a-9ada-798eeaafc091")
 			(effects
 				(font
 					(size 1 1)
@@ -1661,7 +1426,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1685,51 +1450,12 @@
 				)
 			)
 		)
-		(property "Confirmed" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "5451ea03-17cc-4720-a6c9-75798018cd11")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPN" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "bc1ec775-7a3f-421d-80a0-7929d021fba6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "LCSC" "C76934"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ddabcb07-3f2b-49bc-a8cb-019c9738b67d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Link" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "90efd446-7552-4973-b6b1-f2f3195432da")
 			(effects
 				(font
 					(size 1 1)
@@ -1756,32 +1482,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "985e700d-caae-4b38-a97a-f2e895b277a7")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Package" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "eb8d86fd-32bb-434e-9b5c-875afd35011c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Price" ""
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f2245b78-4502-4639-ac16-c92a729d9f67")
 			(effects
 				(font
 					(size 1 1)
@@ -1965,7 +1665,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1989,51 +1689,12 @@
 				)
 			)
 		)
-		(property "Confirmed" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3f56e306-9f51-4fc2-80ac-8cae0bd0db6b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "JLCPN" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2e6cf843-2aaf-4bad-a24c-0d1f2d2d5124")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property "LCSC" "C76934"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "22265d05-dfc1-4f73-8676-c5a92ca4f999")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Link" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4c80f9fe-8b9f-4d23-86ed-a5a78eb1082b")
 			(effects
 				(font
 					(size 1 1)
@@ -2060,32 +1721,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ca543529-b36c-472a-bfae-673483a9d1e0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Package" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8cf1138b-1326-4140-b569-a7036062dd81")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Price" ""
-			(at 0 0 180)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "20c6a42b-37f8-4692-9aec-adbeb9be5e0b")
 			(effects
 				(font
 					(size 1 1)
@@ -2281,7 +1916,7 @@
 				)
 			)
 		)
-		(property "Description" "SOT-23-5L Linear, Compass (ICs) ROHS"
+		(property "Description" "Linear Hall-effect sensor, ratiometric analog output, active-low enable, tri-state output when disabled, SOT-23-5L"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2289,19 +1924,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "dbd30594-1e6f-400a-97f3-78e718de6fa1")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2338,45 +1960,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7669ad71-7736-4584-ae03-53d3d878f394")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8c19d5e4-19f1-4057-b151-d90455b51b73")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a45601b4-5185-40d1-ac67-1d2399a063d8")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8f01aa67-e195-4685-94c9-b2f29dd95ea6")
 			(effects
 				(font
 					(size 1 1)
@@ -2668,7 +2251,7 @@
 			(roundrect_rratio 0.25)
 			(net "ADC_0")
 			(pinfunction "OUT_5")
-			(pintype "output")
+			(pintype "tri_state")
 			(uuid "3258f82d-b2cc-4716-9c6d-f8984e0f94c5")
 		)
 		(embedded_fonts no)
@@ -2724,7 +2307,7 @@
 				)
 			)
 		)
-		(property "Description" "SOT-23-5L Linear, Compass (ICs) ROHS"
+		(property "Description" "Linear Hall-effect sensor, ratiometric analog output, active-low enable, tri-state output when disabled, SOT-23-5L"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -2732,19 +2315,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Height" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "6f3a0a81-5e6c-4648-b46c-2b3ecfbdeccd")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -2781,45 +2351,6 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "c28a68f1-5411-4553-b211-e16def5e7915")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b899d5eb-865e-432e-87b2-b75e318039a6")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "192b68fd-4613-4716-89c4-16815924d4ce")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 0 0 270)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2224c0c1-057a-4d2e-8950-5e9fdc01b738")
 			(effects
 				(font
 					(size 1 1)
@@ -3111,7 +2642,7 @@
 			(roundrect_rratio 0.25)
 			(net "ADC_2")
 			(pinfunction "OUT_5")
-			(pintype "output")
+			(pintype "tri_state")
 			(uuid "6ed93b9c-0370-4e32-886d-d63af81954c8")
 		)
 		(embedded_fonts no)
@@ -3172,12 +2703,54 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x05, script generated"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "431284da-046b-4828-a944-93235b45d7e8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0c430e45-9a22-4323-a9cb-f62b717f59f0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "61532aa3-f2ab-4621-928b-486efaccef51")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8a3690f1-5116-4f29-bdb6-ee002672c82a")
 			(effects
 				(font
 					(size 1 1)
@@ -3196,7 +2769,7 @@
 				(pins "1" "2" "3" "4" "5")
 			)
 		)
-		(attr smd allow_soldermask_bridges)
+		(attr smd exclude_from_pos_files exclude_from_bom dnp allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
@@ -3384,12 +2957,54 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Generic connector, single row, 01x05, script generated"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b2dac150-ad8a-471f-9429-50a4078fa35d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "LCSC" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "5cb90b5a-4ce5-4fac-a22d-6b927432e441")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "MPN" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "acf7962a-61d5-4fae-9c33-0349ca964ace")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "b6e64505-bb3a-4f80-8ebc-af15e324e1d9")
 			(effects
 				(font
 					(size 1 1)
@@ -3408,7 +3023,7 @@
 				(pins "1" "2" "3" "4" "5")
 			)
 		)
-		(attr smd allow_soldermask_bridges)
+		(attr smd exclude_from_pos_files exclude_from_bom dnp allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_poly
 			(pts
