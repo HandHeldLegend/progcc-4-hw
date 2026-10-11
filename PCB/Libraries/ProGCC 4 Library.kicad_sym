@@ -4124,7 +4124,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -10.16 -6.35 0)
 				(length 2.54)
 				(name "VDDIO"
@@ -4142,7 +4142,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -10.16 -8.89 0)
 				(length 2.54)
 				(name "GNDIO"
@@ -4160,7 +4160,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at -10.16 -11.43 0)
 				(length 2.54)
 				(name "GND"
@@ -4178,7 +4178,7 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin power_in line
 				(at 10.16 -11.43 180)
 				(length 2.54)
 				(name "VDD"
