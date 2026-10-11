@@ -97,7 +97,7 @@
 			)
 		)
 		(symbol "BQ25180_1_1"
-			(pin input line
+			(pin open_collector line
 				(at -10.16 5.08 0)
 				(length 2.54)
 				(name "/INT"
@@ -3217,7 +3217,7 @@
 					(type none)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -6.35 7.62 0)
 				(length 2.54)
 				(name "GPIO0"
@@ -3392,7 +3392,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -6.35 2.54 0)
 				(length 2.54)
 				(name "GPIO2"
@@ -3410,7 +3410,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -6.35 0 0)
 				(length 2.54)
 				(name "GPIO1"
@@ -4481,7 +4481,7 @@
 					(type background)
 				)
 			)
-			(pin output line
+			(pin power_out line
 				(at 15.24 2.54 180)
 				(length 5.08)
 				(name "VOUT"
