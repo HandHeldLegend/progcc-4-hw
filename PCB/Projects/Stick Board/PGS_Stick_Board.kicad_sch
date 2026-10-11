@@ -2300,7 +2300,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 47nF 50V X7R 0603"
+		(property "Description" "CAP CER 47nF 50V X7R ±10% 0402"
 			(at 34.29 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -2355,7 +2355,7 @@
 				)
 			)
 		)
-		(property "Package" "0603"
+		(property "Package" "0402"
 			(at 34.29 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -4307,7 +4307,7 @@
 				)
 			)
 		)
-		(property "Description" "50V 47nF X7R ±5% 0603"
+		(property "Description" "CAP CER 47nF 50V X7R ±10% 0402"
 			(at 22.86 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -4362,7 +4362,7 @@
 				)
 			)
 		)
-		(property "Package" "0603"
+		(property "Package" "0402"
 			(at 22.86 34.29 0)
 			(hide yes)
 			(show_name no)
